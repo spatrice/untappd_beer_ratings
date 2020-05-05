@@ -1,0 +1,1001 @@
+name,country,kind,no_beers,no_ratings,rating,link,date_brewery
+Brasserie des Franches-Montagnes (BFM),Switzerland,Micro Brewery,162 Beers,"138,634 Ratings",(3.97),https://untappd.com/brewery/4719,01/04/2020 10:18:05
+Feldschlösschen,Switzerland,Macro Brewery,64 Beers,"83,339 Ratings",(3),https://untappd.com/brewery/3058,01/04/2020 10:18:06
+Brauerei Locher,Switzerland,Regional Brewery,98 Beers,"62,204 Ratings",(3.26),https://untappd.com/brewery/217,01/04/2020 10:18:06
+Trois Dames,Switzerland,Micro Brewery,85 Beers,"55,938 Ratings",(3.73),https://untappd.com/brewery/4720,01/04/2020 10:18:06
+WhiteFrontier,Switzerland,Micro Brewery,120 Beers,"43,758 Ratings",(3.6),https://untappd.com/brewery/185140,01/04/2020 10:18:07
+Doppelleu Brauwerkstatt,Switzerland,Regional Brewery,30 Beers,"34,363 Ratings",(3.43),https://untappd.com/brewery/62434,01/04/2020 10:18:07
+Brauerei Eichhof,Switzerland,Macro Brewery,26 Beers,"20,519 Ratings",(3.08),https://untappd.com/brewery/51157,01/04/2020 10:18:07
+La Nébuleuse,Switzerland,Micro Brewery,97 Beers,"17,050 Ratings",(3.6),https://untappd.com/brewery/113757,01/04/2020 10:18:07
+Valaisanne,Switzerland,Macro Brewery,16 Beers,"15,841 Ratings",(3.32),https://untappd.com/brewery/30599,01/04/2020 10:18:08
+Calanda,Switzerland,Macro Brewery,15 Beers,"14,837 Ratings",(2.93),https://untappd.com/brewery/153316,01/04/2020 10:18:08
+Brasserie Docteur Gab's,Switzerland,Micro Brewery,41 Beers,"14,803 Ratings",(3.5),https://untappd.com/brewery/24460,01/04/2020 10:18:08
+Schützengarten,Switzerland,Regional Brewery,35 Beers,"14,326 Ratings",(3.22),https://untappd.com/brewery/2363,01/04/2020 10:18:08
+Rugenbräu,Switzerland,Regional Brewery,24 Beers,"13,058 Ratings",(3.18),https://untappd.com/brewery/25444,01/04/2020 10:18:09
+Heineken (Switzerland),Switzerland,Macro Brewery,12 Beers,"11,891 Ratings",(3.06),https://untappd.com/brewery/170759,01/04/2020 10:18:09
+Bier Factory BREWERY & TAPROOM,Switzerland,Nano Brewery,40 Beers,"10,873 Ratings",(3.52),https://untappd.com/brewery/13661,01/04/2020 10:18:09
+Emdbräu,Switzerland,Contract Brewery,14 Beers,"10,245 Ratings",(2.37),https://untappd.com/brewery/399418,01/04/2020 10:18:09
+Turbinenbräu,Switzerland,Micro Brewery,47 Beers,"10,172 Ratings",(3.29),https://untappd.com/brewery/7954,01/04/2020 10:18:10
+Falken,Switzerland,Regional Brewery,41 Beers,"9,953 Ratings",(3.04),https://untappd.com/brewery/11742,01/04/2020 10:18:10
+S&A Brewing,Switzerland,Contract Brewery,123 Beers,"9,624 Ratings",(3.77),https://untappd.com/brewery/24349,01/04/2020 10:18:10
+Rosengarten,Switzerland,Regional Brewery,35 Beers,"8,293 Ratings",(3.22),https://untappd.com/brewery/11919,01/04/2020 10:18:10
+Kitchen Brew,Switzerland,Micro Brewery,30 Beers,"7,544 Ratings",(3.48),https://untappd.com/brewery/73963,01/04/2020 10:18:11
+Hoppy People,Switzerland,Micro Brewery,31 Beers,"7,448 Ratings",(3.65),https://untappd.com/brewery/175325,01/04/2020 10:18:11
+Fischerstube,Switzerland,Brew Pub,48 Beers,"7,006 Ratings",(3.35),https://untappd.com/brewery/52958,01/04/2020 10:18:11
+Bière du Boxer,Switzerland,Regional Brewery,12 Beers,"6,946 Ratings",(3.14),https://untappd.com/brewery/10453,01/04/2020 10:18:11
+Altes Tramdepot,Switzerland,Brew Pub,143 Beers,"6,926 Ratings",(3.59),https://untappd.com/brewery/16862,01/04/2020 10:18:11
+Felsenau,Switzerland,Regional Brewery,18 Beers,6896 Ratings,(3.371),https://untappd.com/brewery/11949,01/04/2020 10:18:12
+Blackwell Brewery,Switzerland,Nano Brewery,34 Beers,6795 Ratings,(3.643),https://untappd.com/brewery/161930,01/04/2020 10:18:12
+Birrificio San Martino,Switzerland,Nano Brewery,17 Beers,6354 Ratings,(3.366),https://untappd.com/brewery/291029,01/04/2020 10:18:12
+Müller Bräu,Switzerland,Regional Brewery,31 Beers,6340 Ratings,(3.126),https://untappd.com/brewery/34004,01/04/2020 10:18:12
+Ticino Brewing Company,Switzerland,Micro Brewery,0 Beer,6087 Ratings,(3.434),https://untappd.com/brewery/32881,01/04/2020 10:18:13
+Unser Bier,Switzerland,Micro Brewery,87 Beers,5995 Ratings,(3.355),https://untappd.com/brewery/4178,01/04/2020 10:18:13
+À tue-tête,Switzerland,Nano Brewery,19 Beers,5846 Ratings,(3.908),https://untappd.com/brewery/343928,01/04/2020 10:18:13
+Brauerei Baar,Switzerland,Micro Brewery,27 Beers,5587 Ratings,(3.351),https://untappd.com/brewery/35602,01/04/2020 10:18:13
+523,Switzerland,Nano Brewery,0 Beer,5518 Ratings,(4.018),https://untappd.com/brewery/115091,01/04/2020 10:18:14
+BierVision Monstein,Switzerland,Nano Brewery,21 Beers,5398 Ratings,(3.16),https://untappd.com/brewery/12201,01/04/2020 10:18:14
+Erusbacher & Paul AG,Switzerland,Micro Brewery,27 Beers,5065 Ratings,(3.274),https://untappd.com/brewery/7212,01/04/2020 10:18:14
+Kloster Fischingen,Switzerland,Nano Brewery,31 Beers,5029 Ratings,(3.555),https://untappd.com/brewery/210208,01/04/2020 10:18:14
+Ramseier Suisse,Switzerland,Regional Brewery,32 Beers,5007 Ratings,(2.961),https://untappd.com/brewery/9618,01/04/2020 10:18:15
+Officina Della Birra,Switzerland,Micro Brewery,28 Beers,4751 Ratings,(3.504),https://untappd.com/brewery/84596,01/04/2020 10:18:15
+Brauerei Uster,Switzerland,Micro Brewery,21 Beers,4537 Ratings,(3.232),https://untappd.com/brewery/18552,01/04/2020 10:18:15
+Frères Papinot,Switzerland,Contract Brewery,9 Beers,4464 Ratings,(3.337),https://untappd.com/brewery/67191,01/04/2020 10:18:15
+Bieraria Tschlin,Switzerland,Nano Brewery,21 Beers,4406 Ratings,(3.251),https://untappd.com/brewery/20586,01/04/2020 10:18:16
+Brauerei Adler,Switzerland,Micro Brewery,19 Beers,4264 Ratings,(3.332),https://untappd.com/brewery/24328,01/04/2020 10:18:16
+Dr. Brauwolf,Switzerland,Nano Brewery,31 Beers,4075 Ratings,(3.423),https://untappd.com/brewery/352698,01/04/2020 10:18:16
+Sonnenbräu,Switzerland,Regional Brewery,31 Beers,3874 Ratings,(3.177),https://untappd.com/brewery/12918,01/04/2020 10:18:17
+Egger Bier Worb,Switzerland,Regional Brewery,34 Beers,3742 Ratings,(3.247),https://untappd.com/brewery/17156,01/04/2020 10:18:17
+LägereBräu,Switzerland,Micro Brewery,32 Beers,3742 Ratings,(3.438),https://untappd.com/brewery/119556,01/04/2020 10:18:17
+7 Peaks,Switzerland,Nano Brewery,31 Beers,3647 Ratings,(3.393),https://untappd.com/brewery/147153,01/04/2020 10:18:17
+Haarige Kuh Brauerei,Switzerland,Nano Brewery,25 Beers,3600 Ratings,(3.708),https://untappd.com/brewery/156172,01/04/2020 10:18:18
+Sudwerk Brauerei,Switzerland,Nano Brewery,32 Beers,3598 Ratings,(3.408),https://untappd.com/brewery/14479,01/04/2020 10:18:18
+Les Brasseurs,Switzerland,Brew Pub,31 Beers,3536 Ratings,(3.139),https://untappd.com/brewery/6894,01/04/2020 10:18:18
+Cinq 4000,Switzerland,Nano Brewery,172 Beers,3460 Ratings,(3.882),https://untappd.com/brewery/98323,01/04/2020 10:18:19
+Coop,Switzerland,Bar / Restaurant / Store,10 Beers,3268 Ratings,(2.484),https://untappd.com/brewery/89980,01/04/2020 10:18:19
+Rathaus Brauerei Luzern,Switzerland,Brew Pub,19 Beers,3222 Ratings,(3.622),https://untappd.com/brewery/16291,01/04/2020 10:18:19
+Amboss,Switzerland,Contract Brewery,9 Beers,3161 Ratings,(3.262),https://untappd.com/brewery/8793,01/04/2020 10:18:19
+Barbière,Switzerland,Brew Pub,180 Beers,3143 Ratings,(3.719),https://untappd.com/brewery/120442,01/04/2020 10:18:20
+Öufi Brauerei Solothurn,Switzerland,Micro Brewery,93 Beers,2958 Ratings,(3.256),https://untappd.com/brewery/26938,01/04/2020 10:18:20
+Brasserie du Virage,Switzerland,Nano Brewery,104 Beers,2876 Ratings,(3.618),https://untappd.com/brewery/239557,01/04/2020 10:18:21
+JungfrauBräu,Switzerland,Micro Brewery,26 Beers,2843 Ratings,(3.373),https://untappd.com/brewery/37658,01/04/2020 10:18:21
+Zermatt Matterhorn Brauerei,Switzerland,Nano Brewery,5 Beers,2775 Ratings,(3.303),https://untappd.com/brewery/215334,01/04/2020 10:18:21
+Brauerei Luzern,Switzerland,Micro Brewery,17 Beers,2743 Ratings,(3.316),https://untappd.com/brewery/2909,01/04/2020 10:18:22
+Simmentaler Braumanufaktur,Switzerland,Nano Brewery,16 Beers,2682 Ratings,(3.495),https://untappd.com/brewery/183143,01/04/2020 10:18:22
+Burgdorfer Gasthausbrauerei,Switzerland,Brew Pub,9 Beers,2549 Ratings,(3.57),https://untappd.com/brewery/15914,01/04/2020 10:18:22
+Wädi-Brau-Huus,Switzerland,Nano Brewery,35 Beers,2545 Ratings,(3.22),https://untappd.com/brewery/12953,01/04/2020 10:18:23
+Birrificio Sottobisio,Switzerland,Nano Brewery,28 Beers,2534 Ratings,(3.498),https://untappd.com/brewery/126606,01/04/2020 10:18:23
+Brasserie L'Apaisée,Switzerland,Nano Brewery,75 Beers,2361 Ratings,(3.909),https://untappd.com/brewery/232466,01/04/2020 10:18:23
+Bear'n'Stein,Switzerland,Brew Pub,50 Beers,2276 Ratings,(3.557),https://untappd.com/brewery/323097,01/04/2020 10:18:24
+Mosterei Möhl,Switzerland,Cidery,12 Beers,2234 Ratings,(3.42),https://untappd.com/brewery/21631,01/04/2020 10:18:24
+DEGENBIER,Switzerland,Nano Brewery,44 Beers,2214 Ratings,(3.668),https://untappd.com/brewery/73757,01/04/2020 10:18:24
+Aare Bier,Switzerland,Micro Brewery,8 Beers,2213 Ratings,(3.253),https://untappd.com/brewery/19917,01/04/2020 10:18:24
+Brausyndikat,Switzerland,Nano Brewery,32 Beers,2176 Ratings,(3.567),https://untappd.com/brewery/285137,01/04/2020 10:18:25
+St. Laurentius,Switzerland,Nano Brewery,44 Beers,2124 Ratings,(3.558),https://untappd.com/brewery/220150,01/04/2020 10:18:25
+Kornhausbräu,Switzerland,Brew Pub,36 Beers,2008 Ratings,(3.301),https://untappd.com/brewery/38746,01/04/2020 10:18:25
+Brasserie des Murailles,Switzerland,Micro Brewery,14 Beers,2004 Ratings,(3.365),https://untappd.com/brewery/29802,01/04/2020 10:18:26
+Cayon's,Switzerland,Nano Brewery,59 Beers,1981 Ratings,(3.789),https://untappd.com/brewery/262964,01/04/2020 10:18:26
+Kündigbräu,Switzerland,Nano Brewery,17 Beers,1848 Ratings,(3.257),https://untappd.com/brewery/128745,01/04/2020 10:18:26
+Thunbier,Switzerland,Micro Brewery,20 Beers,1813 Ratings,(3.498),https://untappd.com/brewery/393764,01/04/2020 10:18:26
+Stadtguet,Switzerland,Micro Brewery,11 Beers,1774 Ratings,(3.288),https://untappd.com/brewery/18578,01/04/2020 10:18:27
+Braumanufaktur Schlachthuus,Switzerland,Nano Brewery,17 Beers,1729 Ratings,(3.552),https://untappd.com/brewery/225060,01/04/2020 10:18:27
+Brasserie du Jorat,Switzerland,Nano Brewery,16 Beers,1727 Ratings,(3.406),https://untappd.com/brewery/52195,01/04/2020 10:18:28
+Volta Bräu,Switzerland,Brew Pub,59 Beers,1719 Ratings,(3.39),https://untappd.com/brewery/165793,01/04/2020 10:18:28
+Stadtbühl,Switzerland,Micro Brewery,26 Beers,1628 Ratings,(3.055),https://untappd.com/brewery/12919,01/04/2020 10:18:28
+Barfuss Brauerei,Switzerland,Nano Brewery,34 Beers,1621 Ratings,(3.402),https://untappd.com/brewery/182630,01/04/2020 10:18:29
+Brauhaus Sternen,Switzerland,Brew Pub,40 Beers,1624 Ratings,(3.402),https://untappd.com/brewery/233,01/04/2020 10:18:29
+CôteWest Brewing,Switzerland,Contract Brewery,23 Beers,1609 Ratings,(3.673),https://untappd.com/brewery/309657,01/04/2020 10:18:29
+Steinfels - Restaurant Bar Brauerei,Switzerland,Brew Pub,17 Beers,1603 Ratings,(3.256),https://untappd.com/brewery/1198,01/04/2020 10:18:29
+Fri-Mousse,Switzerland,Nano Brewery,9 Beers,1569 Ratings,(3.466),https://untappd.com/brewery/60562,01/04/2020 10:18:30
+Chien Bleu,Switzerland,Nano Brewery,44 Beers,1559 Ratings,(3.692),https://untappd.com/brewery/303723,01/04/2020 10:18:30
+Ahoi Bier,Switzerland,Nano Brewery,54 Beers,1552 Ratings,(3.566),https://untappd.com/brewery/159064,01/04/2020 10:18:30
+Engadiner Bier,Switzerland,Nano Brewery,14 Beers,1537 Ratings,(3.483),https://untappd.com/brewery/79849,01/04/2020 10:18:30
+Soorser Bier,Switzerland,Nano Brewery,28 Beers,1523 Ratings,(3.375),https://untappd.com/brewery/228890,01/04/2020 10:18:31
+The Darkwolf Brewery,Switzerland,Nano Brewery,26 Beers,1502 Ratings,(3.49),https://untappd.com/brewery/41552,01/04/2020 10:18:31
+Nordwand Bräu,Switzerland,Nano Brewery,5 Beers,1472 Ratings,(3.433),https://untappd.com/brewery/229308,01/04/2020 10:18:31
+Bachweg Brewing,Switzerland,Nano Brewery,14 Beers,1420 Ratings,(3.555),https://untappd.com/brewery/249616,01/04/2020 10:18:31
+Broken City Brewing,Switzerland,Nano Brewery,38 Beers,1377 Ratings,(3.63),https://untappd.com/brewery/321120,01/04/2020 10:18:32
+Echec & Malt,Switzerland,Nano Brewery,74 Beers,1367 Ratings,(3.701),https://untappd.com/brewery/191384,01/04/2020 10:18:32
+Brau AG Langenthal,Switzerland,Nano Brewery,11 Beers,1334 Ratings,(3.415),https://untappd.com/brewery/73538,01/04/2020 10:18:32
+Valora Holding AG,Switzerland,Bar / Restaurant / Store,1 Beer,1330 Ratings,(2.244),https://untappd.com/brewery/78467,01/04/2020 10:18:33
+La:Marmotte,Switzerland,Nano Brewery,22 Beers,1297 Ratings,(3.291),https://untappd.com/brewery/158882,01/04/2020 10:18:33
+Mein Emmental,Switzerland,Nano Brewery,57 Beers,1291 Ratings,(3.493),https://untappd.com/brewery/130427,01/04/2020 10:18:33
+Stiär Biär,Switzerland,Nano Brewery,14 Beers,1282 Ratings,(3.248),https://untappd.com/brewery/26736,01/04/2020 10:18:33
+Denner,Switzerland,Bar / Restaurant / Store,6 Beers,1243 Ratings,(2.537),https://untappd.com/brewery/72137,01/04/2020 10:18:34
+Braustation Sursee,Switzerland,Nano Brewery,13 Beers,1178 Ratings,(3.402),https://untappd.com/brewery/259024,01/04/2020 10:18:34
+La Brasserie du Chauve,Switzerland,Nano Brewery,0 Beer,1175 Ratings,(3.355),https://untappd.com/brewery/38748,01/04/2020 10:18:34
+dear.beer brewing company,Switzerland,Nano Brewery,48 Beers,1157 Ratings,(3.547),https://untappd.com/brewery/299414,01/04/2020 10:18:34
+nine brothers,Switzerland,Nano Brewery,24 Beers,1155 Ratings,(3.956),https://untappd.com/brewery/172223,01/04/2020 10:18:35
+Chen Van Loon,Switzerland,Nano Brewery,16 Beers,1138 Ratings,(3.596),https://untappd.com/brewery/169811,01/04/2020 10:18:35
+Mükon,Switzerland,Nano Brewery,50 Beers,1109 Ratings,(3.235),https://untappd.com/brewery/327979,01/04/2020 10:18:35
+Freiburger Biermanufaktur,Switzerland,Nano Brewery,19 Beers,1108 Ratings,(3.482),https://untappd.com/brewery/74635,01/04/2020 10:18:36
+Brasserie du Molard,Switzerland,Brew Pub,5 Beers,1066 Ratings,(3.14),https://untappd.com/brewery/25871,01/04/2020 10:18:36
+Drei Tannen Bier,Switzerland,Brew Pub,14 Beers,1056 Ratings,(3.316),https://untappd.com/brewery/161033,01/04/2020 10:18:36
+BLZ Company,Switzerland,Nano Brewery,14 Beers,1031 Ratings,(3.577),https://untappd.com/brewery/269899,01/04/2020 10:18:37
+Burgbier Ringgenberg,Switzerland,Nano Brewery,63 Beers,1022 Ratings,(3.69),https://untappd.com/brewery/175323,01/04/2020 10:18:37
+Aktienbrauerei Flims Surselva AG,Switzerland,Nano Brewery,0 Beer,1019 Ratings,(3.289),https://untappd.com/brewery/18352,01/04/2020 10:18:37
+Seebueb,Switzerland,Nano Brewery,16 Beers,1016 Ratings,(3.33),https://untappd.com/brewery/126428,01/04/2020 10:18:38
+Eurobräu,Switzerland,Bar / Restaurant / Store,1 Beer,1013 Ratings,(2.654),https://untappd.com/brewery/26111,01/04/2020 10:18:38
+Schuum,Switzerland,Nano Brewery,21 Beers,950 Ratings,(3.574),https://untappd.com/brewery/302233,01/04/2020 10:18:38
+Sierrvoise,Switzerland,Micro Brewery,6 Beers,945 Ratings,(3.317),https://untappd.com/brewery/54680,01/04/2020 10:18:38
+Davoser Craft Beer,Switzerland,Nano Brewery,7 Beers,938 Ratings,(3.481),https://untappd.com/brewery/377861,01/04/2020 10:18:39
+UHB Üelus Homebrew,Switzerland,Nano Brewery,65 Beers,922 Ratings,(3.336),https://untappd.com/brewery/17149,01/04/2020 10:18:39
+Stadtbier Chur,Switzerland,Nano Brewery,23 Beers,914 Ratings,(3.377),https://untappd.com/brewery/146075,01/04/2020 10:18:39
+Brauerei Oerlikon,Switzerland,Nano Brewery,8 Beers,913 Ratings,(3.257),https://untappd.com/brewery/236848,01/04/2020 10:18:39
+Brauerei St. Johann,Switzerland,Nano Brewery,29 Beers,885 Ratings,(3.474),https://untappd.com/brewery/81963,01/04/2020 10:18:40
+Hardwald,Switzerland,Nano Brewery,9 Beers,876 Ratings,(3.18),https://untappd.com/brewery/132489,01/04/2020 10:18:40
+LA PIÈCE,Switzerland,Nano Brewery,15 Beers,832 Ratings,(3.55),https://untappd.com/brewery/209338,01/04/2020 10:18:40
+Cidrerie Du Vulcain,Switzerland,Cidery,26 Beers,820 Ratings,(3.994),https://untappd.com/brewery/80533,01/04/2020 10:18:41
+Federation of Malted Republics (FMR),Switzerland,Nano Brewery,10 Beers,821 Ratings,(3.507),https://untappd.com/brewery/202606,01/04/2020 10:18:41
+Brau Rebel,Switzerland,Contract Brewery,30 Beers,809 Ratings,(3.574),https://untappd.com/brewery/379459,01/04/2020 10:18:41
+Euelbräu,Switzerland,Nano Brewery,22 Beers,803 Ratings,(3.16),https://untappd.com/brewery/17123,01/04/2020 10:18:42
+Volg,Switzerland,Bar / Restaurant / Store,3 Beers,789 Ratings,(2.613),https://untappd.com/brewery/126670,01/04/2020 10:18:42
+Bärg Bier,Switzerland,Nano Brewery,12 Beers,784 Ratings,(3.357),https://untappd.com/brewery/303516,01/04/2020 10:18:42
+Brasserie De L'Improbable,Switzerland,Nano Brewery,39 Beers,784 Ratings,(3.689),https://untappd.com/brewery/192064,01/04/2020 10:18:42
+Lance-Pierre,Switzerland,Nano Brewery,46 Beers,779 Ratings,(3.661),https://untappd.com/brewery/181343,01/04/2020 10:18:43
+Tonnebière,Switzerland,Micro Brewery,16 Beers,778 Ratings,(3.598),https://untappd.com/brewery/202394,01/04/2020 10:18:43
+Buechibärger Bier,Switzerland,Brew Pub,34 Beers,756 Ratings,(3.458),https://untappd.com/brewery/140538,01/04/2020 10:18:43
+Les Fleurs du Malt,Switzerland,Nano Brewery,21 Beers,750 Ratings,(3.599),https://untappd.com/brewery/42345,01/04/2020 10:18:44
+Arosabräu,Switzerland,Nano Brewery,4 Beers,745 Ratings,(3.649),https://untappd.com/brewery/254312,01/04/2020 10:18:44
+Seeland Bräu,Switzerland,Brew Pub,15 Beers,743 Ratings,(3.598),https://untappd.com/brewery/77230,01/04/2020 10:18:45
+Totally Beer Suisse,Switzerland,Nano Brewery,19 Beers,734 Ratings,(3.282),https://untappd.com/brewery/240085,01/04/2020 10:18:45
+Riot Act Brewing,Switzerland,Nano Brewery,31 Beers,726 Ratings,(3.743),https://untappd.com/brewery/415953,01/04/2020 10:18:45
+Einhornbräu,Switzerland,Nano Brewery,13 Beers,723 Ratings,(3.319),https://untappd.com/brewery/210546,01/04/2020 10:18:45
+Brüll!Bier,Switzerland,Nano Brewery,15 Beers,702 Ratings,(3.371),https://untappd.com/brewery/111512,01/04/2020 10:18:46
+Entlebucher Bier,Switzerland,Nano Brewery,8 Beers,696 Ratings,(3.307),https://untappd.com/brewery/39269,01/04/2020 10:18:46
+Fleisch und Brau,Switzerland,Nano Brewery,14 Beers,688 Ratings,(3.408),https://untappd.com/brewery/28577,01/04/2020 10:18:46
+Lola Cola,Switzerland,Micro Brewery,2 Beers,665 Ratings,(3.22),https://untappd.com/brewery/341315,01/04/2020 10:18:47
+Brauhuus 531,Switzerland,Nano Brewery,25 Beers,662 Ratings,(3.432),https://untappd.com/brewery/261038,01/04/2020 10:18:47
+Napf,Switzerland,Nano Brewery,17 Beers,663 Ratings,(3.406),https://untappd.com/brewery/18221,01/04/2020 10:18:47
+aabachbier,Switzerland,Nano Brewery,82 Beers,654 Ratings,(3.781),https://untappd.com/brewery/172212,01/04/2020 10:18:48
+Beer Guerrillas,Switzerland,Nano Brewery,58 Beers,650 Ratings,(3.526),https://untappd.com/brewery/122188,01/04/2020 10:18:48
+Boss'Beer,Switzerland,Nano Brewery,8 Beers,644 Ratings,(3.34),https://untappd.com/brewery/289350,01/04/2020 10:18:48
+Père Jakob,Switzerland,Nano Brewery,27 Beers,637 Ratings,(3.551),https://untappd.com/brewery/55365,01/04/2020 10:18:49
+Rud Bir,Switzerland,Nano Brewery,25 Beers,613 Ratings,(3.459),https://untappd.com/brewery/198464,01/04/2020 10:18:49
+BRAUBAR,Switzerland,Nano Brewery,0 Beer,606 Ratings,(3.945),https://untappd.com/brewery/56807,01/04/2020 10:18:49
+Sunnegg Brau Haus,Switzerland,Nano Brewery,20 Beers,606 Ratings,(3.372),https://untappd.com/brewery/125484,01/04/2020 10:18:50
+BrauBudeBasel BBB,Switzerland,Nano Brewery,45 Beers,598 Ratings,(3.375),https://untappd.com/brewery/153910,01/04/2020 10:18:50
+BierBienne,Switzerland,Contract Brewery,4 Beers,586 Ratings,(3.477),https://untappd.com/brewery/134360,01/04/2020 10:18:50
+Brasserie La Concorde,Switzerland,Nano Brewery,23 Beers,581 Ratings,(3.336),https://untappd.com/brewery/215330,01/04/2020 10:18:51
+Drinks of the World,Switzerland,Bar / Restaurant / Store,1 Beer,580 Ratings,(2.43),https://untappd.com/brewery/43104,01/04/2020 10:18:51
+Cap'taine Mousse,Switzerland,Nano Brewery,18 Beers,579 Ratings,(3.533),https://untappd.com/brewery/271699,01/04/2020 10:18:51
+Brasserie Haldemann,Switzerland,Nano Brewery,0 Beer,579 Ratings,(3.545),https://untappd.com/brewery/155324,01/04/2020 10:18:51
+Freihof,Switzerland,Brew Pub,24 Beers,577 Ratings,(3.202),https://untappd.com/brewery/103771,01/04/2020 10:18:52
+Braukunst Bern,Switzerland,Nano Brewery,30 Beers,576 Ratings,(3.46),https://untappd.com/brewery/296786,01/04/2020 10:18:52
+Schwarz Mönch,Switzerland,Contract Brewery,1 Beer,566 Ratings,(4.215),https://untappd.com/brewery/283023,01/04/2020 10:18:52
+Biergarage,Switzerland,Nano Brewery,18 Beers,567 Ratings,(3.475),https://untappd.com/brewery/175201,01/04/2020 10:18:53
+Brauerei Hürlimann,Switzerland,Macro Brewery,0 Beer,563 Ratings,(4.21),https://untappd.com/brewery/61257,01/04/2020 10:18:53
+Brauerei Sutton,Switzerland,Nano Brewery,11 Beers,547 Ratings,(3.471),https://untappd.com/brewery/180665,01/04/2020 10:18:53
+BlackPig Brewing Co,Switzerland,Brew Pub,10 Beers,546 Ratings,(3.569),https://untappd.com/brewery/271754,01/04/2020 10:18:53
+Gutknecht's Hammer-Bier,Switzerland,Nano Brewery,38 Beers,549 Ratings,(3.556),https://untappd.com/brewery/91406,01/04/2020 10:18:54
+Damn Good,Switzerland,Micro Brewery,1 Beer,539 Ratings,(3.139),https://untappd.com/brewery/340785,01/04/2020 10:18:54
+Fahrtwind,Switzerland,Nano Brewery,19 Beers,537 Ratings,(3.079),https://untappd.com/brewery/16347,01/04/2020 10:18:54
+Brasserie Artisanale du Château,Switzerland,Brew Pub,20 Beers,534 Ratings,(3.256),https://untappd.com/brewery/51297,01/04/2020 10:18:54
+4655 Brewing Company,Switzerland,Nano Brewery,34 Beers,530 Ratings,(4.46),https://untappd.com/brewery/211839,01/04/2020 10:18:55
+The Alps,Switzerland,Micro Brewery,5 Beers,521 Ratings,(3.674),https://untappd.com/brewery/347217,01/04/2020 10:18:55
+Old School (Faulensee),Switzerland,Nano Brewery,44 Beers,521 Ratings,(3.565),https://untappd.com/brewery/250798,01/04/2020 10:18:55
+Brauerei Chur,Switzerland,Contract Brewery,6 Beers,519 Ratings,(3.173),https://untappd.com/brewery/42387,01/04/2020 10:18:55
+BZW Bierzunft Wehntal,Switzerland,Nano Brewery,77 Beers,517 Ratings,(3.81),https://untappd.com/brewery/106534,01/04/2020 10:18:56
+Wabräu,Switzerland,Nano Brewery,12 Beers,515 Ratings,(3.481),https://untappd.com/brewery/79970,01/04/2020 10:18:56
+Nubia Brew,Switzerland,Contract Brewery,7 Beers,511 Ratings,(3.047),https://untappd.com/brewery/202888,01/04/2020 10:18:56
+Faberbräu,Switzerland,Nano Brewery,11 Beers,510 Ratings,(3.208),https://untappd.com/brewery/198235,01/04/2020 10:18:57
+Brewdaz,Switzerland,Nano Brewery,19 Beers,510 Ratings,(3.53),https://untappd.com/brewery/318101,01/04/2020 10:18:57
+Landskroner Bräu,Switzerland,Nano Brewery,16 Beers,498 Ratings,(3.398),https://untappd.com/brewery/210212,01/04/2020 10:18:57
+MN Brew,Switzerland,Nano Brewery,33 Beers,495 Ratings,(3.38),https://untappd.com/brewery/318784,01/04/2020 10:18:57
+Gottardo,Switzerland,Contract Brewery,2 Beers,489 Ratings,(2.933),https://untappd.com/brewery/70273,01/04/2020 10:18:58
+Rigi Gold,Switzerland,Brew Pub,4 Beers,484 Ratings,(3.195),https://untappd.com/brewery/249809,01/04/2020 10:18:58
+le Fou Du Roi,Switzerland,Nano Brewery,17 Beers,482 Ratings,(3.42),https://untappd.com/brewery/309222,01/04/2020 10:18:58
+La Challensoise,Switzerland,Nano Brewery,12 Beers,480 Ratings,(3.463),https://untappd.com/brewery/306022,01/04/2020 10:18:58
+The Stillman's,Switzerland,Contract Brewery,0 Beer,470 Ratings,(3.704),https://untappd.com/brewery/16874,01/04/2020 10:18:59
+NordSud,Switzerland,Nano Brewery,24 Beers,464 Ratings,(3.381),https://untappd.com/brewery/356285,01/04/2020 10:18:59
+Celestial,Switzerland,Nano Brewery,16 Beers,460 Ratings,(3.397),https://untappd.com/brewery/367942,01/04/2020 10:18:59
+Obersee Brau Union,Switzerland,Nano Brewery,17 Beers,453 Ratings,(3.306),https://untappd.com/brewery/276328,01/04/2020 10:18:59
+Stadtmauer Brauer,Switzerland,Nano Brewery,8 Beers,438 Ratings,(3.502),https://untappd.com/brewery/305587,01/04/2020 10:19:00
+Stammheimer Hopfentropfen,Switzerland,Nano Brewery,6 Beers,433 Ratings,(3.367),https://untappd.com/brewery/211539,01/04/2020 10:19:00
+MóMò,Switzerland,Nano Brewery,12 Beers,414 Ratings,(2.958),https://untappd.com/brewery/131092,01/04/2020 10:19:00
+Güschu 58 Braui,Switzerland,Nano Brewery,47 Beers,412 Ratings,(3.776),https://untappd.com/brewery/224956,01/04/2020 10:19:01
+Huus-Braui,Switzerland,Brew Pub,26 Beers,410 Ratings,(3.385),https://untappd.com/brewery/87737,01/04/2020 10:19:01
+UG Bräu,Switzerland,Nano Brewery,51 Beers,409 Ratings,(3.697),https://untappd.com/brewery/125474,01/04/2020 10:19:01
+Genossenschaft Keimling,Switzerland,Nano Brewery,31 Beers,408 Ratings,(3.434),https://untappd.com/brewery/295392,01/04/2020 10:19:01
+Bartis,Switzerland,Nano Brewery,22 Beers,406 Ratings,(3.121),https://untappd.com/brewery/49833,01/04/2020 10:19:02
+Craftfeld,Switzerland,Nano Brewery,24 Beers,406 Ratings,(3.905),https://untappd.com/brewery/404837,01/04/2020 10:19:02
+No Land,Switzerland,Nano Brewery,23 Beers,390 Ratings,(3.392),https://untappd.com/brewery/234342,01/04/2020 10:19:02
+Farnsburger Bier,Switzerland,Nano Brewery,11 Beers,386 Ratings,(3.067),https://untappd.com/brewery/302289,01/04/2020 10:19:02
+Mountain Madness,Switzerland,Nano Brewery,84 Beers,382 Ratings,(4.106),https://untappd.com/brewery/273678,01/04/2020 10:19:03
+Hüttenbräu,Switzerland,Nano Brewery,11 Beers,379 Ratings,(3.268),https://untappd.com/brewery/332391,01/04/2020 10:19:03
+Fjord & Fjell,Switzerland,Nano Brewery,50 Beers,375 Ratings,(3.622),https://untappd.com/brewery/244914,01/04/2020 10:19:03
+BertBier,Switzerland,Nano Brewery,11 Beers,374 Ratings,(3.319),https://untappd.com/brewery/181271,01/04/2020 10:19:03
+Lozärner Bier,Switzerland,Contract Brewery,0 Beer,372 Ratings,(3.214),https://untappd.com/brewery/397621,01/04/2020 10:19:04
+Bîrtel,Switzerland,Nano Brewery,19 Beers,370 Ratings,(3.452),https://untappd.com/brewery/148848,01/04/2020 10:19:04
+Winslow Brew Co.,Switzerland,Nano Brewery,0 Beer,366 Ratings,(3.293),https://untappd.com/brewery/284437,01/04/2020 10:19:04
+Brasserie du Dzô,Switzerland,Nano Brewery,8 Beers,363 Ratings,(3.471),https://untappd.com/brewery/347719,01/04/2020 10:19:05
+Octopus - Bräu,Switzerland,Nano Brewery,23 Beers,362 Ratings,(3.291),https://untappd.com/brewery/70381,01/04/2020 10:19:05
+BadFish Brewing Company,Switzerland,Nano Brewery,21 Beers,356 Ratings,(3.439),https://untappd.com/brewery/358788,01/04/2020 10:19:05
+Zur grünen Amsel,Switzerland,Nano Brewery,22 Beers,355 Ratings,(3.188),https://untappd.com/brewery/69547,01/04/2020 10:19:05
+Mont-Noble,Switzerland,Nano Brewery,13 Beers,352 Ratings,(3.475),https://untappd.com/brewery/303259,01/04/2020 10:19:06
+Getränke Lussi AG,Switzerland,Nano Brewery,10 Beers,347 Ratings,(3.299),https://untappd.com/brewery/82407,01/04/2020 10:19:06
+Strättligen Bier,Switzerland,Nano Brewery,62 Beers,347 Ratings,(3.528),https://untappd.com/brewery/26043,01/04/2020 10:19:06
+Brasserie Les Barbus,Switzerland,Nano Brewery,12 Beers,344 Ratings,(3.652),https://untappd.com/brewery/302039,01/04/2020 10:19:06
+Wyssestei Bier,Switzerland,Contract Brewery,1 Beer,341 Ratings,(3.346),https://untappd.com/brewery/140494,01/04/2020 10:19:07
+Brasserie des 3 Lacs,Switzerland,Nano Brewery,14 Beers,336 Ratings,(3.438),https://untappd.com/brewery/150421,01/04/2020 10:19:07
+Dystopian Brewing,Switzerland,Nano Brewery,39 Beers,334 Ratings,(3.591),https://untappd.com/brewery/418519,01/04/2020 10:19:07
+BrüW,Switzerland,Brew Pub,42 Beers,330 Ratings,(3.664),https://untappd.com/brewery/294069,01/04/2020 10:19:08
+Maitri,Switzerland,Nano Brewery,7 Beers,330 Ratings,(3.205),https://untappd.com/brewery/219725,01/04/2020 10:19:08
+tingel tangel BEER,Switzerland,Nano Brewery,2 Beers,328 Ratings,(3.457),https://untappd.com/brewery/396792,01/04/2020 10:19:08
+Suonen Bräu,Switzerland,Nano Brewery,3 Beers,320 Ratings,(3.335),https://untappd.com/brewery/52659,01/04/2020 10:19:08
+Schlossbraui Nürensdorf,Switzerland,Nano Brewery,46 Beers,320 Ratings,(3.378),https://untappd.com/brewery/135689,01/04/2020 10:19:09
+Endo Bier,Switzerland,Contract Brewery,7 Beers,319 Ratings,(3.636),https://untappd.com/brewery/285822,01/04/2020 10:19:09
+Brasserie de la Côte,Switzerland,Nano Brewery,19 Beers,316 Ratings,(3.137),https://untappd.com/brewery/74532,01/04/2020 10:19:09
+la Vouivre,Switzerland,Nano Brewery,21 Beers,315 Ratings,(3.497),https://untappd.com/brewery/97267,01/04/2020 10:19:10
+Kehrmühle,Switzerland,Nano Brewery,25 Beers,312 Ratings,(3.691),https://untappd.com/brewery/231313,01/04/2020 10:19:10
+Bleisch Brewery,Switzerland,Nano Brewery,63 Beers,311 Ratings,(3.698),https://untappd.com/brewery/189894,01/04/2020 10:19:10
+Brauwerkstatt Jegenstorf,Switzerland,Nano Brewery,15 Beers,310 Ratings,(3.624),https://untappd.com/brewery/67670,01/04/2020 10:19:10
+Malz Maul,Switzerland,Nano Brewery,59 Beers,301 Ratings,(3.502),https://untappd.com/brewery/273222,01/04/2020 10:19:11
+Brasserie du Haut-Lac,Switzerland,Nano Brewery,14 Beers,301 Ratings,(3.261),https://untappd.com/brewery/272144,01/04/2020 10:19:11
+Atlas Craft Beer,Switzerland,Nano Brewery,37 Beers,297 Ratings,(3.915),https://untappd.com/brewery/217706,01/04/2020 10:19:11
+Alpenbrauerei GIRUN AG,Switzerland,Nano Brewery,3 Beers,290 Ratings,(3.554),https://untappd.com/brewery/345500,01/04/2020 10:19:11
+Eisbock,Switzerland,Nano Brewery,10 Beers,290 Ratings,(3.549),https://untappd.com/brewery/347545,01/04/2020 10:19:12
+Hermann Bier,Switzerland,Nano Brewery,19 Beers,287 Ratings,(3.554),https://untappd.com/brewery/143920,01/04/2020 10:19:12
+Luzerner Bier Brauer,Switzerland,Nano Brewery,22 Beers,278 Ratings,(3.181),https://untappd.com/brewery/199399,01/04/2020 10:19:12
+Stadtkeller Luzern,Switzerland,Contract Brewery,3 Beers,276 Ratings,(3.541),https://untappd.com/brewery/73097,01/04/2020 10:19:12
+Traquenard,Switzerland,Nano Brewery,19 Beers,274 Ratings,(3.38),https://untappd.com/brewery/383461,01/04/2020 10:19:13
+Bière du Lac,Switzerland,Nano Brewery,9 Beers,272 Ratings,(3.616),https://untappd.com/brewery/187359,01/04/2020 10:19:13
+Matt & Elly,Switzerland,Brew Pub,17 Beers,268 Ratings,(3.499),https://untappd.com/brewery/394299,01/04/2020 10:19:13
+BR,Switzerland,Contract Brewery,6 Beers,262 Ratings,(3.028),https://untappd.com/brewery/423375,01/04/2020 10:19:14
+ECM Bräu,Switzerland,Nano Brewery,4 Beers,261 Ratings,(3.26),https://untappd.com/brewery/171770,01/04/2020 10:19:14
+Barrel Brewing,Switzerland,Brew Pub,27 Beers,257 Ratings,(3.634),https://untappd.com/brewery/428705,01/04/2020 10:19:14
+Linde Oberstrass,Switzerland,Contract Brewery,9 Beers,256 Ratings,(3.433),https://untappd.com/brewery/20029,01/04/2020 10:19:14
+Brauerei im Berg,Switzerland,Nano Brewery,14 Beers,254 Ratings,(3.483),https://untappd.com/brewery/285662,01/04/2020 10:19:15
+Burg Braui,Switzerland,Nano Brewery,41 Beers,254 Ratings,(3.556),https://untappd.com/brewery/174450,01/04/2020 10:19:15
+Mousse de Thoune,Switzerland,Nano Brewery,41 Beers,253 Ratings,(3.521),https://untappd.com/brewery/241650,01/04/2020 10:19:15
+Fleur de Lyss,Switzerland,Nano Brewery,13 Beers,256 Ratings,(3.567),https://untappd.com/brewery/329801,01/04/2020 10:19:15
+BAF,Switzerland,Nano Brewery,39 Beers,246 Ratings,(3.682),https://untappd.com/brewery/155467,01/04/2020 10:19:16
+Sud51,Switzerland,Contract Brewery,7 Beers,241 Ratings,(3.441),https://untappd.com/brewery/324983,01/04/2020 10:19:16
+Lorraine Beer Project,Switzerland,Nano Brewery,46 Beers,240 Ratings,(3.79),https://untappd.com/brewery/313858,01/04/2020 10:19:16
+EL CABALLERO BREWING,Switzerland,Nano Brewery,27 Beers,240 Ratings,(3.685),https://untappd.com/brewery/355663,01/04/2020 10:19:17
+Alpine Peak (Weinwelt Schweiz),Switzerland,Nano Brewery,2 Beers,239 Ratings,(3.379),https://untappd.com/brewery/411181,01/04/2020 10:19:17
+"""Gottfried""",Switzerland,Nano Brewery,5 Beers,237 Ratings,(3.42),https://untappd.com/brewery/401948,01/04/2020 10:19:17
+Brasserie des Celtes,Switzerland,Nano Brewery,21 Beers,235 Ratings,(3.48),https://untappd.com/brewery/378246,01/04/2020 10:19:18
+Couvaloup,Switzerland,Nano Brewery,9 Beers,234 Ratings,(3.328),https://untappd.com/brewery/271746,01/04/2020 10:19:18
+Celsius (Brasserie Artisanale d'Ayent),Switzerland,Nano Brewery,9 Beers,233 Ratings,(3.086),https://untappd.com/brewery/114613,01/04/2020 10:19:18
+Käppelijoch Spezialitäten Hausbrauerei,Switzerland,Nano Brewery,19 Beers,233 Ratings,(3.771),https://untappd.com/brewery/105326,01/04/2020 10:19:18
+Bierwerkstatt Eberhard,Switzerland,Nano Brewery,26 Beers,232 Ratings,(3.502),https://untappd.com/brewery/345093,01/04/2020 10:19:19
+Föhrenbier Manufaktur,Switzerland,Nano Brewery,35 Beers,229 Ratings,(4.123),https://untappd.com/brewery/329287,01/04/2020 10:19:19
+Tap4,Switzerland,Nano Brewery,26 Beers,229 Ratings,(3.745),https://untappd.com/brewery/415132,01/04/2020 10:19:19
+Blaue Ente,Switzerland,Nano Brewery,11 Beers,227 Ratings,(3.407),https://untappd.com/brewery/394720,01/04/2020 10:19:19
+Brasserie Artisanale Broyarde,Switzerland,Nano Brewery,18 Beers,226 Ratings,(3.484),https://untappd.com/brewery/177580,01/04/2020 10:19:20
+Brasserie de l'Atelier Sàrl,Switzerland,Nano Brewery,16 Beers,225 Ratings,(3.528),https://untappd.com/brewery/370253,01/04/2020 10:19:20
+Hohgant,Switzerland,Nano Brewery,14 Beers,224 Ratings,(3.369),https://untappd.com/brewery/125490,01/04/2020 10:19:20
+Hüsi Bierhaus,Switzerland,Bar / Restaurant / Store,5 Beers,223 Ratings,(3.542),https://untappd.com/brewery/227310,01/04/2020 10:19:21
+La Drêche,Switzerland,Nano Brewery,28 Beers,222 Ratings,(3.7),https://untappd.com/brewery/203328,01/04/2020 10:19:21
+Hopfenundmalz,Switzerland,Nano Brewery,35 Beers,221 Ratings,(3.354),https://untappd.com/brewery/111992,01/04/2020 10:19:21
+Nikson Brewery,Switzerland,Nano Brewery,30 Beers,220 Ratings,(3.583),https://untappd.com/brewery/323414,01/04/2020 10:19:21
+Schwarzbuebe Bier,Switzerland,Nano Brewery,17 Beers,220 Ratings,(3.433),https://untappd.com/brewery/153899,01/04/2020 10:19:22
+Brasserie des Mines,Switzerland,Nano Brewery,11 Beers,218 Ratings,(3.417),https://untappd.com/brewery/272457,01/04/2020 10:19:22
+La Brasserie du Temps,Switzerland,Nano Brewery,31 Beers,217 Ratings,(3.58),https://untappd.com/brewery/186634,01/04/2020 10:19:22
+Ponäly,Switzerland,Nano Brewery,32 Beers,212 Ratings,(3.701),https://untappd.com/brewery/302680,01/04/2020 10:19:23
+Brasserie Artisanale De Giez,Switzerland,Nano Brewery,19 Beers,212 Ratings,(3.208),https://untappd.com/brewery/240211,01/04/2020 10:19:23
+Komturei Tobel,Switzerland,Contract Brewery,1 Beer,211 Ratings,(3.328),https://untappd.com/brewery/65488,01/04/2020 10:19:23
+Braufabrik Baden,Switzerland,Brew Pub,25 Beers,208 Ratings,(3.62),https://untappd.com/brewery/391919,01/04/2020 10:19:23
+La Meute,Switzerland,Nano Brewery,7 Beers,208 Ratings,(3.486),https://untappd.com/brewery/357683,01/04/2020 10:19:24
+Birra Bozz,Switzerland,Nano Brewery,26 Beers,210 Ratings,(3.088),https://untappd.com/brewery/175191,01/04/2020 10:19:24
+Tiersteiner Bräu,Switzerland,Nano Brewery,8 Beers,207 Ratings,(3.217),https://untappd.com/brewery/19808,01/04/2020 10:19:24
+3330 Alt.,Switzerland,Brew Pub,5 Beers,206 Ratings,(3.291),https://untappd.com/brewery/244918,01/04/2020 10:19:24
+Brasserie des Condemines,Switzerland,Nano Brewery,16 Beers,201 Ratings,(3.305),https://untappd.com/brewery/91300,01/04/2020 10:19:25
+Barkracher,Switzerland,Contract Brewery,2 Beers,201 Ratings,(3.237),https://untappd.com/brewery/369044,01/04/2020 10:19:25
+CCLXXI,Switzerland,Nano Brewery,54 Beers,200 Ratings,(3.8),https://untappd.com/brewery/299651,01/04/2020 10:19:25
+Baselbieter,Switzerland,Nano Brewery,0 Beer,199 Ratings,(3.148),https://untappd.com/brewery/81975,01/04/2020 10:19:26
+Hope,Switzerland,Nano Brewery,10 Beers,199 Ratings,(3.157),https://untappd.com/brewery/386932,01/04/2020 10:19:26
+Monsterbräu,Switzerland,Nano Brewery,13 Beers,199 Ratings,(3.24),https://untappd.com/brewery/153822,01/04/2020 10:19:26
+Glattfelder,Switzerland,Nano Brewery,11 Beers,197 Ratings,(3.479),https://untappd.com/brewery/264666,01/04/2020 10:19:26
+Roscha,Switzerland,Nano Brewery,19 Beers,195 Ratings,(3.482),https://untappd.com/brewery/153918,01/04/2020 10:19:27
+O'bled,Switzerland,Nano Brewery,7 Beers,193 Ratings,(3.193),https://untappd.com/brewery/316538,01/04/2020 10:19:27
+Ruecherei,Switzerland,Contract Brewery,5 Beers,189 Ratings,(3.228),https://untappd.com/brewery/266933,01/04/2020 10:19:27
+AnderThaler,Switzerland,Nano Brewery,34 Beers,188 Ratings,(3.322),https://untappd.com/brewery/370539,01/04/2020 10:19:28
+Chomer Braukunst,Switzerland,Nano Brewery,9 Beers,188 Ratings,(3.648),https://untappd.com/brewery/339051,01/04/2020 10:19:28
+Reist-Bier,Switzerland,Nano Brewery,10 Beers,186 Ratings,(3.627),https://untappd.com/brewery/278632,01/04/2020 10:19:28
+Full Measure Brewing,Switzerland,Contract Brewery,21 Beers,185 Ratings,(4.055),https://untappd.com/brewery/195069,01/04/2020 10:19:29
+THE COMMON OAK,Switzerland,Nano Brewery,5 Beers,184 Ratings,(4.236),https://untappd.com/brewery/373800,01/04/2020 10:19:29
+Vieux Chemin,Switzerland,Nano Brewery,14 Beers,183 Ratings,(3.294),https://untappd.com/brewery/177824,01/04/2020 10:19:29
+Kudibräu (Buchser Bier),Switzerland,Nano Brewery,13 Beers,182 Ratings,(3.174),https://untappd.com/brewery/286996,01/04/2020 10:19:29
+Hochdorfer Bier,Switzerland,Contract Brewery,3 Beers,180 Ratings,(3.338),https://untappd.com/brewery/198128,01/04/2020 10:19:30
+Hasenbräu Solothurn,Switzerland,Nano Brewery,37 Beers,178 Ratings,(4.517),https://untappd.com/brewery/267195,01/04/2020 10:19:30
+Reinecke Bräu,Switzerland,Nano Brewery,18 Beers,174 Ratings,(3.935),https://untappd.com/brewery/193258,01/04/2020 10:19:30
+Hardeggerperle,Switzerland,Nano Brewery,7 Beers,173 Ratings,(3.052),https://untappd.com/brewery/39245,01/04/2020 10:19:31
+ULLR Brewing,Switzerland,Nano Brewery,7 Beers,171 Ratings,(3.532),https://untappd.com/brewery/428144,01/04/2020 10:19:31
+Hordeum,Switzerland,Contract Brewery,14 Beers,171 Ratings,(3.419),https://untappd.com/brewery/332273,01/04/2020 10:19:31
+Brygger Øl,Switzerland,Nano Brewery,60 Beers,171 Ratings,(0),https://untappd.com/brewery/158682,01/04/2020 10:19:32
+Gleis 1,Switzerland,Nano Brewery,8 Beers,171 Ratings,(3.329),https://untappd.com/brewery/103659,01/04/2020 10:19:32
+Stadtwächter,Switzerland,Nano Brewery,3 Beers,170 Ratings,(3.421),https://untappd.com/brewery/415453,01/04/2020 10:19:32
+Old Hill Brewery,Switzerland,Nano Brewery,14 Beers,176 Ratings,(3.536),https://untappd.com/brewery/355182,01/04/2020 10:19:32
+La Comète,Switzerland,Nano Brewery,10 Beers,168 Ratings,(3.087),https://untappd.com/brewery/226824,01/04/2020 10:19:33
+3714 Frutigbier,Switzerland,Nano Brewery,8 Beers,167 Ratings,(3.292),https://untappd.com/brewery/405925,01/04/2020 10:19:33
+Bodensee Bräu,Switzerland,Nano Brewery,24 Beers,167 Ratings,(3.506),https://untappd.com/brewery/125465,01/04/2020 10:19:33
+Granicum,Switzerland,Nano Brewery,7 Beers,165 Ratings,(3.071),https://untappd.com/brewery/199379,01/04/2020 10:19:34
+Faex,Switzerland,Nano Brewery,22 Beers,165 Ratings,(3.467),https://untappd.com/brewery/145225,01/04/2020 10:19:34
+Les Garçons,Switzerland,Nano Brewery,16 Beers,159 Ratings,(3.767),https://untappd.com/brewery/274110,01/04/2020 10:19:34
+Lynx Movement,Switzerland,Nano Brewery,10 Beers,158 Ratings,(3.31),https://untappd.com/brewery/232556,01/04/2020 10:19:35
+Courage Bier,Switzerland,Nano Brewery,8 Beers,157 Ratings,(3.48),https://untappd.com/brewery/283152,01/04/2020 10:19:35
+Raben Brau,Switzerland,Nano Brewery,21 Beers,157 Ratings,(3.102),https://untappd.com/brewery/125461,01/04/2020 10:19:35
+Tres Hombres,Switzerland,Nano Brewery,16 Beers,153 Ratings,(3.496),https://untappd.com/brewery/395841,01/04/2020 10:19:35
+Blanche Pierre,Switzerland,Nano Brewery,20 Beers,153 Ratings,(3.31),https://untappd.com/brewery/217178,01/04/2020 10:19:36
+Arli Brau,Switzerland,Nano Brewery,13 Beers,153 Ratings,(3.063),https://untappd.com/brewery/213911,01/04/2020 10:19:36
+heitereBRÄU,Switzerland,Nano Brewery,24 Beers,152 Ratings,(3.819),https://untappd.com/brewery/57761,01/04/2020 10:19:36
+Laboratorio Birrario Ticinese,Switzerland,Nano Brewery,3 Beers,152 Ratings,(3.434),https://untappd.com/brewery/363486,01/04/2020 10:19:37
+Gimlé,Switzerland,Nano Brewery,12 Beers,151 Ratings,(3.356),https://untappd.com/brewery/236982,01/04/2020 10:19:37
+Brauwerk 1779,Switzerland,Brew Pub,20 Beers,150 Ratings,(3.354),https://untappd.com/brewery/427163,01/04/2020 10:19:37
+Unikum,Switzerland,Nano Brewery,19 Beers,150 Ratings,(3.741),https://untappd.com/brewery/395506,01/04/2020 10:19:38
+Blattmann Bier,Switzerland,Nano Brewery,4 Beers,149 Ratings,(3.055),https://untappd.com/brewery/373306,01/04/2020 10:19:38
+Sennbräu,Switzerland,Nano Brewery,22 Beers,145 Ratings,(3.448),https://untappd.com/brewery/292478,01/04/2020 10:19:38
+Paddy Reilly’s,Switzerland,Bar / Restaurant / Store,4 Beers,143 Ratings,(3.256),https://untappd.com/brewery/443930,01/04/2020 10:19:39
+Hirnibräu,Switzerland,Nano Brewery,6 Beers,142 Ratings,(3.546),https://untappd.com/brewery/157219,01/04/2020 10:19:39
+La Vadge,Switzerland,Nano Brewery,0 Beer,140 Ratings,(3.951),https://untappd.com/brewery/280310,01/04/2020 10:19:40
+Rock Story Brew,Switzerland,Brew Pub,32 Beers,140 Ratings,(4),https://untappd.com/brewery/212161,01/04/2020 10:19:40
+Falkenbräu Baden,Switzerland,Nano Brewery,2 Beers,137 Ratings,(3.321),https://untappd.com/brewery/174606,01/04/2020 10:19:40
+la Mine,Switzerland,Nano Brewery,11 Beers,136 Ratings,(3.518),https://untappd.com/brewery/372700,01/04/2020 10:19:40
+Birreria Pacific,Switzerland,Nano Brewery,16 Beers,135 Ratings,(3.374),https://untappd.com/brewery/227631,01/04/2020 10:19:41
+Bières & Co,Switzerland,Nano Brewery,22 Beers,134 Ratings,(2.88),https://untappd.com/brewery/228143,01/04/2020 10:19:41
+Stadtbach Brauerei,Switzerland,Nano Brewery,10 Beers,133 Ratings,(3.397),https://untappd.com/brewery/377437,01/04/2020 10:19:41
+Brasserie Jolimont,Switzerland,Contract Brewery,2 Beers,133 Ratings,(3.671),https://untappd.com/brewery/217579,01/04/2020 10:19:42
+Rümlanger Brauwerkstatt,Switzerland,Nano Brewery,6 Beers,135 Ratings,(3.238),https://untappd.com/brewery/368932,01/04/2020 10:19:42
+Abbaye De St-Maurice,Switzerland,Micro Brewery,4 Beers,130 Ratings,(3.453),https://untappd.com/brewery/444947,01/04/2020 10:19:42
+Mein Teil,Switzerland,Nano Brewery,7 Beers,130 Ratings,(3.4),https://untappd.com/brewery/337710,01/04/2020 10:19:43
+Zobo Getränke,Switzerland,Nano Brewery,2 Beers,129 Ratings,(3.198),https://untappd.com/brewery/255941,01/04/2020 10:19:43
+Brauwerkstatt Kriens,Switzerland,Nano Brewery,12 Beers,127 Ratings,(3.47),https://untappd.com/brewery/405654,01/04/2020 10:19:43
+Divus,Switzerland,Nano Brewery,4 Beers,128 Ratings,(3.213),https://untappd.com/brewery/209637,01/04/2020 10:19:44
+Schützenhaus Burgdorf,Switzerland,Contract Brewery,4 Beers,127 Ratings,(3.539),https://untappd.com/brewery/191971,01/04/2020 10:19:44
+Black Peak Brewery,Switzerland,Nano Brewery,6 Beers,126 Ratings,(3.483),https://untappd.com/brewery/375222,01/04/2020 10:19:44
+Oberson / Chastelbach,Switzerland,Nano Brewery,11 Beers,126 Ratings,(3.571),https://untappd.com/brewery/139623,01/04/2020 10:19:44
+Dive Bär,Switzerland,Nano Brewery,11 Beers,124 Ratings,(3.478),https://untappd.com/brewery/320760,01/04/2020 10:19:45
+GibbonBräu,Switzerland,Nano Brewery,8 Beers,122 Ratings,(3.268),https://untappd.com/brewery/368717,01/04/2020 10:19:45
+Heero,Switzerland,Nano Brewery,31 Beers,121 Ratings,(3.786),https://untappd.com/brewery/322164,01/04/2020 10:19:45
+Brasserie de Vollèges,Switzerland,Nano Brewery,10 Beers,121 Ratings,(3.398),https://untappd.com/brewery/153839,01/04/2020 10:19:46
+Helmert's,Switzerland,Nano Brewery,11 Beers,118 Ratings,(3.725),https://untappd.com/brewery/395522,01/04/2020 10:19:46
+Pentabier,Switzerland,Nano Brewery,12 Beers,118 Ratings,(3.455),https://untappd.com/brewery/341583,01/04/2020 10:19:46
+Minuscule Bières,Switzerland,Contract Brewery,3 Beers,118 Ratings,(3.52),https://untappd.com/brewery/293468,01/04/2020 10:19:46
+Kraftstoff,Switzerland,Nano Brewery,7 Beers,117 Ratings,(3.261),https://untappd.com/brewery/425625,01/04/2020 10:19:47
+Langenthaler Bierbrauerei,Switzerland,Nano Brewery,4 Beers,117 Ratings,(3.25),https://untappd.com/brewery/376792,01/04/2020 10:19:47
+Post Tenebras,Switzerland,Nano Brewery,17 Beers,116 Ratings,(3.661),https://untappd.com/brewery/334570,01/04/2020 10:19:47
+Terra Matta,Switzerland,Nano Brewery,8 Beers,117 Ratings,(3.319),https://untappd.com/brewery/176605,01/04/2020 10:19:48
+Brasserie des Diablerets,Switzerland,Nano Brewery,10 Beers,115 Ratings,(3.622),https://untappd.com/brewery/309077,01/04/2020 10:19:48
+Brewhouse Lac Léman,Switzerland,Brew Pub,0 Beer,115 Ratings,(3.962),https://untappd.com/brewery/224235,01/04/2020 10:19:48
+Saane Gutsch,Switzerland,Nano Brewery,2 Beers,113 Ratings,(3.553),https://untappd.com/brewery/278287,01/04/2020 10:19:49
+Turaco,Switzerland,Contract Brewery,1 Beer,112 Ratings,(2.953),https://untappd.com/brewery/426059,01/04/2020 10:19:49
+Longhawl Brewing Co,Switzerland,Nano Brewery,1 Beer,112 Ratings,(3.201),https://untappd.com/brewery/350698,01/04/2020 10:19:49
+Wasserämter Mikro-Brauerei,Switzerland,Nano Brewery,6 Beers,112 Ratings,(3.239),https://untappd.com/brewery/205985,01/04/2020 10:19:50
+Brasserie des Tours,Switzerland,Brew Pub,10 Beers,110 Ratings,(3.214),https://untappd.com/brewery/71284,01/04/2020 10:19:50
+Storchenbräu,Switzerland,Nano Brewery,26 Beers,109 Ratings,(3.483),https://untappd.com/brewery/393206,01/04/2020 10:19:50
+Brauer Tom,Switzerland,Nano Brewery,10 Beers,109 Ratings,(3.143),https://untappd.com/brewery/335024,01/04/2020 10:19:50
+Neufuhrbräu,Switzerland,Nano Brewery,21 Beers,108 Ratings,(3.554),https://untappd.com/brewery/285351,01/04/2020 10:19:51
+McMax,Switzerland,Nano Brewery,19 Beers,107 Ratings,(3.551),https://untappd.com/brewery/368535,01/04/2020 10:19:51
+Brasserie de la Fontaine (Orforte),Switzerland,Brew Pub,12 Beers,107 Ratings,(3.394),https://untappd.com/brewery/141942,01/04/2020 10:19:51
+Birrificio Valle Maggia,Switzerland,Nano Brewery,6 Beers,106 Ratings,(3.225),https://untappd.com/brewery/437798,01/04/2020 10:19:52
+Bières de Neuch,Switzerland,Nano Brewery,9 Beers,106 Ratings,(3.456),https://untappd.com/brewery/277242,01/04/2020 10:19:52
+San Rocco,Switzerland,Nano Brewery,6 Beers,106 Ratings,(3.26),https://untappd.com/brewery/207019,01/04/2020 10:19:52
+Glouglou,Switzerland,Nano Brewery,16 Beers,106 Ratings,(3.611),https://untappd.com/brewery/189717,01/04/2020 10:19:52
+Bünzwasser,Switzerland,Nano Brewery,27 Beers,105 Ratings,(3.515),https://untappd.com/brewery/326372,01/04/2020 10:19:53
+3bier,Switzerland,Nano Brewery,6 Beers,104 Ratings,(3.461),https://untappd.com/brewery/73124,01/04/2020 10:19:53
+La Vaudruzienne,Switzerland,Nano Brewery,11 Beers,104 Ratings,(3.315),https://untappd.com/brewery/324980,01/04/2020 10:19:53
+Unterbad Brewery,Switzerland,Nano Brewery,26 Beers,104 Ratings,(3.482),https://untappd.com/brewery/138967,01/04/2020 10:19:54
+Hopstache Brewing Brothers,Switzerland,Nano Brewery,8 Beers,103 Ratings,(4.461),https://untappd.com/brewery/436589,01/04/2020 10:19:54
+Landbrauerei Heimiswiler Härz,Switzerland,Nano Brewery,2 Beers,101 Ratings,(3.444),https://untappd.com/brewery/342567,01/04/2020 10:19:54
+Brasserie Gonzo,Switzerland,Nano Brewery,11 Beers,100 Ratings,(3.321),https://untappd.com/brewery/374648,01/04/2020 10:19:54
+Schoggi,Switzerland,Nano Brewery,12 Beers,99 Ratings,(3.201),https://untappd.com/brewery/88756,01/04/2020 10:19:55
+Brauer Bischoff,Switzerland,Nano Brewery,23 Beers,99 Ratings,(3.679),https://untappd.com/brewery/297622,01/04/2020 10:19:55
+HellsKitchen Brewery,Switzerland,Nano Brewery,11 Beers,97 Ratings,(3.715),https://untappd.com/brewery/380363,01/04/2020 10:19:55
+Ademus,Switzerland,Nano Brewery,9 Beers,97 Ratings,(3.33),https://untappd.com/brewery/263838,01/04/2020 10:19:56
+Mythen Bräu,Switzerland,Nano Brewery,36 Beers,97 Ratings,(3.198),https://untappd.com/brewery/218258,01/04/2020 10:19:56
+Egghubel,Switzerland,Nano Brewery,18 Beers,97 Ratings,(3.534),https://untappd.com/brewery/102636,01/04/2020 10:19:56
+Studer Et Walker Brasseurs,Switzerland,Nano Brewery,1 Beer,96 Ratings,(3.49),https://untappd.com/brewery/374317,01/04/2020 10:19:57
+Oberdörfer Chauerbräu,Switzerland,Nano Brewery,7 Beers,96 Ratings,(3.259),https://untappd.com/brewery/266993,01/04/2020 10:19:57
+Mosterei Kobelt,Switzerland,Cidery,11 Beers,96 Ratings,(3.465),https://untappd.com/brewery/194237,01/04/2020 10:19:57
+Bierverein Jens+itzer,Switzerland,Nano Brewery,20 Beers,95 Ratings,(0),https://untappd.com/brewery/415065,01/04/2020 10:19:58
+Birrificio Due Fusti,Switzerland,Nano Brewery,10 Beers,95 Ratings,(3.389),https://untappd.com/brewery/396689,01/04/2020 10:19:58
+Stahler,Switzerland,Nano Brewery,6 Beers,95 Ratings,(3.652),https://untappd.com/brewery/299714,01/04/2020 10:19:58
+La Brasse-Mortier,Switzerland,Nano Brewery,7 Beers,95 Ratings,(3.354),https://untappd.com/brewery/255476,01/04/2020 10:19:59
+Freistoff,Switzerland,Nano Brewery,17 Beers,93 Ratings,(3.313),https://untappd.com/brewery/292526,01/04/2020 10:19:59
+Brasserie du Manoir,Switzerland,Nano Brewery,5 Beers,93 Ratings,(3.624),https://untappd.com/brewery/223446,01/04/2020 10:19:59
+Skiarena Andermatt Sedrun,Switzerland,Micro Brewery,1 Beer,93 Ratings,(3.019),https://untappd.com/brewery/178593,01/04/2020 10:20:00
+Adrianos Bar & Café,Switzerland,Bar / Restaurant / Store,1 Beer,93 Ratings,(3.565),https://untappd.com/brewery/137535,01/04/2020 10:20:00
+VieriBräu,Switzerland,Nano Brewery,14 Beers,92 Ratings,(3.731),https://untappd.com/brewery/253551,01/04/2020 10:20:00
+Monte Lema,Switzerland,Nano Brewery,10 Beers,92 Ratings,(3.1),https://untappd.com/brewery/441237,01/04/2020 10:20:00
+Drunk Beard,Switzerland,Nano Brewery,11 Beers,91 Ratings,(3.36),https://untappd.com/brewery/423791,01/04/2020 10:20:01
+Sunny Bräu,Switzerland,Nano Brewery,6 Beers,91 Ratings,(3.461),https://untappd.com/brewery/416064,01/04/2020 10:20:01
+la Mule,Switzerland,Nano Brewery,4 Beers,92 Ratings,(3.209),https://untappd.com/brewery/155680,01/04/2020 10:20:01
+Danidrinks (Danibier),Switzerland,Nano Brewery,6 Beers,90 Ratings,(3.171),https://untappd.com/brewery/203428,01/04/2020 10:20:02
+Tardiv,Switzerland,Nano Brewery,3 Beers,90 Ratings,(3.414),https://untappd.com/brewery/138089,01/04/2020 10:20:02
+Malternative,Switzerland,Nano Brewery,5 Beers,88 Ratings,(3.351),https://untappd.com/brewery/378318,01/04/2020 10:20:02
+"Haslital Bier, KronenAdler Braukultur",Switzerland,Nano Brewery,10 Beers,87 Ratings,(3.399),https://untappd.com/brewery/424443,01/04/2020 10:20:03
+Bières du Niton,Switzerland,Nano Brewery,9 Beers,87 Ratings,(3.198),https://untappd.com/brewery/291351,01/04/2020 10:20:03
+Black Deer Brewing Co.,Switzerland,Nano Brewery,17 Beers,87 Ratings,(3.378),https://untappd.com/brewery/194774,01/04/2020 10:20:03
+Stadthaus,Switzerland,Bar / Restaurant / Store,1 Beer,87 Ratings,(3.42),https://untappd.com/brewery/178588,01/04/2020 10:20:04
+Bäuper Craftbeer,Switzerland,Nano Brewery,6 Beers,85 Ratings,(3.357),https://untappd.com/brewery/421791,01/04/2020 10:20:04
+les Gobelins,Switzerland,Nano Brewery,6 Beers,85 Ratings,(3.516),https://untappd.com/brewery/295064,01/04/2020 10:20:04
+Müli Bräu,Switzerland,Nano Brewery,8 Beers,84 Ratings,(3.227),https://untappd.com/brewery/215007,01/04/2020 10:20:04
+Rolpibrau,Switzerland,Nano Brewery,4 Beers,83 Ratings,(3.463),https://untappd.com/brewery/33512,01/04/2020 10:20:05
+47 Grad Nord,Switzerland,Nano Brewery,20 Beers,82 Ratings,(3.649),https://untappd.com/brewery/403644,01/04/2020 10:20:05
+Hohenbräu,Switzerland,Nano Brewery,6 Beers,82 Ratings,(3.195),https://untappd.com/brewery/393792,01/04/2020 10:20:05
+NinetyTwoBrew,Switzerland,Nano Brewery,18 Beers,82 Ratings,(0),https://untappd.com/brewery/336933,01/04/2020 10:20:06
+Alimentana Shops AG,Switzerland,Contract Brewery,1 Beer,81 Ratings,(2.238),https://untappd.com/brewery/134086,01/04/2020 10:20:06
+Endstation,Switzerland,Nano Brewery,6 Beers,80 Ratings,(3.521),https://untappd.com/brewery/395509,01/04/2020 10:20:06
+Père Porret,Switzerland,Nano Brewery,5 Beers,80 Ratings,(3.416),https://untappd.com/brewery/224132,01/04/2020 10:20:07
+La Croix Blanche,Switzerland,Brew Pub,8 Beers,80 Ratings,(3.093),https://untappd.com/brewery/172221,01/04/2020 10:20:07
+Drüüklang Bräu,Switzerland,Nano Brewery,5 Beers,79 Ratings,(3.634),https://untappd.com/brewery/384718,01/04/2020 10:20:07
+La Source,Switzerland,Nano Brewery,7 Beers,78 Ratings,(3.571),https://untappd.com/brewery/392151,01/04/2020 10:20:08
+Zwergenbräu,Switzerland,Nano Brewery,18 Beers,77 Ratings,(3.494),https://untappd.com/brewery/83122,01/04/2020 10:20:08
+Kunstwerk,Switzerland,Nano Brewery,13 Beers,77 Ratings,(3.272),https://untappd.com/brewery/349125,01/04/2020 10:20:08
+Brau Und Rauchshop Kursbier,Switzerland,Brew Pub,20 Beers,77 Ratings,(3.205),https://untappd.com/brewery/338068,01/04/2020 10:20:09
+Hopfetopf,Switzerland,Nano Brewery,8 Beers,77 Ratings,(3.699),https://untappd.com/brewery/294607,01/04/2020 10:20:09
+Brasserie du Singe,Switzerland,Nano Brewery,4 Beers,77 Ratings,(3.518),https://untappd.com/brewery/261959,01/04/2020 10:20:09
+Güegi-Quell,Switzerland,Nano Brewery,14 Beers,76 Ratings,(2.94),https://untappd.com/brewery/181329,01/04/2020 10:20:09
+Corma,Switzerland,Nano Brewery,3 Beers,74 Ratings,(3.285),https://untappd.com/brewery/229938,01/04/2020 10:20:10
+Braucheib,Switzerland,Nano Brewery,9 Beers,74 Ratings,(4.524),https://untappd.com/brewery/413926,01/04/2020 10:20:10
+Mon Oeil Bräu,Switzerland,Nano Brewery,10 Beers,73 Ratings,(3.529),https://untappd.com/brewery/229300,01/04/2020 10:20:10
+Getränke Wüthrich AG,Switzerland,Bar / Restaurant / Store,1 Beer,73 Ratings,(3.271),https://untappd.com/brewery/188005,01/04/2020 10:20:11
+Drachenbräu,Switzerland,Nano Brewery,7 Beers,73 Ratings,(3.332),https://untappd.com/brewery/154189,01/04/2020 10:20:11
+Rufibräu vo Obwaldä,Switzerland,Nano Brewery,15 Beers,72 Ratings,(4.025),https://untappd.com/brewery/365518,01/04/2020 10:20:11
+Walliser Keller,Switzerland,Contract Brewery,3 Beers,72 Ratings,(3.413),https://untappd.com/brewery/363037,01/04/2020 10:20:12
+Stanser,Switzerland,Cidery,2 Beers,72 Ratings,(3.517),https://untappd.com/brewery/183310,01/04/2020 10:20:12
+Dünnern,Switzerland,Nano Brewery,3 Beers,71 Ratings,(3.521),https://untappd.com/brewery/327481,01/04/2020 10:20:12
+Rainacker Brauerei,Switzerland,Nano Brewery,20 Beers,70 Ratings,(0),https://untappd.com/brewery/397042,01/04/2020 10:20:13
+REIB BIER - Brauerei Unterkuonimatt,Switzerland,Micro Brewery,13 Beers,69 Ratings,(3.607),https://untappd.com/brewery/378133,01/04/2020 10:20:13
+Maltman's,Switzerland,Nano Brewery,0 Beer,69 Ratings,(3.923),https://untappd.com/brewery/280023,01/04/2020 10:20:13
+Brasserie des Gros,Switzerland,Nano Brewery,0 Beer,69 Ratings,(2.48),https://untappd.com/brewery/228555,01/04/2020 10:20:14
+Mättmibräu,Switzerland,Brew Pub,1 Beer,69 Ratings,(3.511),https://untappd.com/brewery/189494,01/04/2020 10:20:14
+Schümberg-Bräu,Switzerland,Nano Brewery,9 Beers,68 Ratings,(3.3),https://untappd.com/brewery/393863,01/04/2020 10:20:14
+BrauBarBümpliz,Switzerland,Nano Brewery,11 Beers,67 Ratings,(3.53),https://untappd.com/brewery/379605,01/04/2020 10:20:14
+Brasserie des Pommerats,Switzerland,Nano Brewery,5 Beers,67 Ratings,(3.316),https://untappd.com/brewery/352441,01/04/2020 10:20:15
+Heimelig Bier,Switzerland,Nano Brewery,10 Beers,66 Ratings,(4.572),https://untappd.com/brewery/418106,01/04/2020 10:20:15
+Brasserie Artisanale des Molettes,Switzerland,Nano Brewery,13 Beers,66 Ratings,(3.426),https://untappd.com/brewery/353909,01/04/2020 10:20:15
+MACA Craft Brewery,Switzerland,Nano Brewery,7 Beers,65 Ratings,(3.327),https://untappd.com/brewery/293602,01/04/2020 10:20:16
+La Mécanique Des Fluides,Switzerland,Nano Brewery,10 Beers,64 Ratings,(3.547),https://untappd.com/brewery/383966,01/04/2020 10:20:16
+476 Faulensee,Switzerland,Nano Brewery,25 Beers,64 Ratings,(0),https://untappd.com/brewery/373416,01/04/2020 10:20:16
+Mountain View,Switzerland,Nano Brewery,6 Beers,64 Ratings,(3.217),https://untappd.com/brewery/321133,01/04/2020 10:20:17
+Herzbräu,Switzerland,Nano Brewery,8 Beers,64 Ratings,(3.6),https://untappd.com/brewery/213594,01/04/2020 10:20:17
+Krügelbier,Switzerland,Nano Brewery,12 Beers,63 Ratings,(3.607),https://untappd.com/brewery/315149,01/04/2020 10:20:17
+Sevibräu,Switzerland,Nano Brewery,10 Beers,62 Ratings,(3.612),https://untappd.com/brewery/80828,01/04/2020 10:20:18
+Rokki,Switzerland,Nano Brewery,12 Beers,62 Ratings,(3.146),https://untappd.com/brewery/225099,01/04/2020 10:20:18
+Roubouz Braumanufaktur,Switzerland,Nano Brewery,8 Beers,61 Ratings,(3.513),https://untappd.com/brewery/399166,01/04/2020 10:20:18
+Franzen Brau,Switzerland,Nano Brewery,0 Beer,61 Ratings,(3.512),https://untappd.com/brewery/397552,01/04/2020 10:20:19
+Brauerei Zweierlei,Switzerland,Nano Brewery,11 Beers,61 Ratings,(3.135),https://untappd.com/brewery/302681,01/04/2020 10:20:19
+CaramBier,Switzerland,Nano Brewery,9 Beers,60 Ratings,(3.869),https://untappd.com/brewery/385092,01/04/2020 10:20:19
+Reuss Schlaufe,Switzerland,Nano Brewery,9 Beers,60 Ratings,(3.196),https://untappd.com/brewery/312337,01/04/2020 10:20:20
+Fox & Rabbit,Switzerland,Nano Brewery,14 Beers,60 Ratings,(0),https://untappd.com/brewery/298923,01/04/2020 10:20:20
+Kulturhof Hinter Musegg,Switzerland,Nano Brewery,6 Beers,60 Ratings,(3.538),https://untappd.com/brewery/269140,01/04/2020 10:20:20
+La Cave Microbrasserie,Switzerland,Nano Brewery,14 Beers,59 Ratings,(3.729),https://untappd.com/brewery/414636,01/04/2020 10:20:21
+La P’tite Anglaise,Switzerland,Nano Brewery,5 Beers,59 Ratings,(3.324),https://untappd.com/brewery/382132,01/04/2020 10:20:21
+ABZ.beer (Allgemeine Braugenossenschaft Zürich),Switzerland,Nano Brewery,7 Beers,59 Ratings,(3.357),https://untappd.com/brewery/281856,01/04/2020 10:20:21
+Cow Water,Switzerland,Nano Brewery,6 Beers,58 Ratings,(3.438),https://untappd.com/brewery/71930,01/04/2020 10:20:21
+Karl,Switzerland,Bar / Restaurant / Store,2 Beers,58 Ratings,(3.473),https://untappd.com/brewery/212018,01/04/2020 10:20:22
+PD Beer,Switzerland,Nano Brewery,6 Beers,57 Ratings,(2.875),https://untappd.com/brewery/404943,01/04/2020 10:20:22
+MischMasch,Switzerland,Nano Brewery,6 Beers,58 Ratings,(3.123),https://untappd.com/brewery/394342,01/04/2020 10:20:22
+Soif De Voyage,Switzerland,Nano Brewery,7 Beers,57 Ratings,(3.459),https://untappd.com/brewery/378440,01/04/2020 10:20:23
+Rössli Bier,Switzerland,Nano Brewery,7 Beers,57 Ratings,(3.375),https://untappd.com/brewery/213929,01/04/2020 10:20:23
+Hecht,Switzerland,Contract Brewery,3 Beers,57 Ratings,(3.734),https://untappd.com/brewery/179935,01/04/2020 10:20:23
+la Filature,Switzerland,Nano Brewery,8 Beers,56 Ratings,(3.732),https://untappd.com/brewery/359419,01/04/2020 10:20:24
+Löwenbräu Zürich,Switzerland,Macro Brewery,0 Beer,56 Ratings,(3.375),https://untappd.com/brewery/134735,01/04/2020 10:20:24
+Hopfenfisch,Switzerland,Nano Brewery,4 Beers,59 Ratings,(3.5),https://untappd.com/brewery/426348,01/04/2020 10:20:24
+Brau Bandi,Switzerland,Nano Brewery,3 Beers,55 Ratings,(2.885),https://untappd.com/brewery/380963,01/04/2020 10:20:25
+Bière Du Pendule,Switzerland,Nano Brewery,4 Beers,55 Ratings,(3.166),https://untappd.com/brewery/379325,01/04/2020 10:20:25
+Rigamonti,Switzerland,Nano Brewery,12 Beers,55 Ratings,(3.588),https://untappd.com/brewery/370428,01/04/2020 10:20:25
+Metsiederei Eckert,Switzerland,Meadery,8 Beers,55 Ratings,(3.993),https://untappd.com/brewery/350523,01/04/2020 10:20:26
+Stedtli Bier,Switzerland,Nano Brewery,1 Beer,55 Ratings,(3.636),https://untappd.com/brewery/345060,01/04/2020 10:20:26
+Bitterspiel,Switzerland,Nano Brewery,12 Beers,55 Ratings,(3.625),https://untappd.com/brewery/344565,01/04/2020 10:20:26
+Tiboris,Switzerland,Nano Brewery,9 Beers,55 Ratings,(3.119),https://untappd.com/brewery/338025,01/04/2020 10:20:27
+Imkerei.ch,Switzerland,Meadery,28 Beers,55 Ratings,(0),https://untappd.com/brewery/283123,01/04/2020 10:20:27
+La Brasserie Des Fées,Switzerland,Nano Brewery,7 Beers,54 Ratings,(3.273),https://untappd.com/brewery/426804,01/04/2020 10:20:27
+Hörnlibräu,Switzerland,Nano Brewery,12 Beers,54 Ratings,(3.205),https://untappd.com/brewery/261473,01/04/2020 10:20:28
+Vie Montagne,Switzerland,Brew Pub,13 Beers,53 Ratings,(3.5),https://untappd.com/brewery/425681,01/04/2020 10:20:28
+Kämpf,Switzerland,Nano Brewery,12 Beers,53 Ratings,(3.475),https://untappd.com/brewery/414553,01/04/2020 10:20:28
+Brasserie de la Pêcherie,Switzerland,Nano Brewery,12 Beers,53 Ratings,(3.131),https://untappd.com/brewery/403338,01/04/2020 10:20:29
+Brasserie Keller,Switzerland,Nano Brewery,9 Beers,53 Ratings,(3.643),https://untappd.com/brewery/384412,01/04/2020 10:20:29
+MarRei,Switzerland,Nano Brewery,5 Beers,53 Ratings,(3.661),https://untappd.com/brewery/353039,01/04/2020 10:20:29
+Smöre-Bräu,Switzerland,Nano Brewery,2 Beers,53 Ratings,(3.135),https://untappd.com/brewery/232657,01/04/2020 10:20:30
+Kramer Bier,Switzerland,Nano Brewery,6 Beers,52 Ratings,(3.383),https://untappd.com/brewery/442860,01/04/2020 10:20:30
+Geronimo-Brewery Alpstübli Trübsee,Switzerland,Nano Brewery,3 Beers,52 Ratings,(3.195),https://untappd.com/brewery/399125,01/04/2020 10:20:30
+James Bräu,Switzerland,Nano Brewery,18 Beers,52 Ratings,(0),https://untappd.com/brewery/255280,01/04/2020 10:20:31
+Menzbergbier,Switzerland,Nano Brewery,7 Beers,52 Ratings,(3.532),https://untappd.com/brewery/206643,01/04/2020 10:20:31
+Unterländer Bräu,Switzerland,Nano Brewery,7 Beers,52 Ratings,(3.491),https://untappd.com/brewery/160144,01/04/2020 10:20:32
+einheitsbier.ch,Switzerland,Nano Brewery,3 Beers,51 Ratings,(3.985),https://untappd.com/brewery/204378,01/04/2020 10:20:32
+Schnack Bier,Switzerland,Nano Brewery,0 Beer,51 Ratings,(3.682),https://untappd.com/brewery/198153,01/04/2020 10:20:33
+Ravenhead Brewery,Switzerland,Nano Brewery,1 Beer,50 Ratings,(3.546),https://untappd.com/brewery/420043,01/04/2020 10:20:33
+DCider,Switzerland,Nano Brewery,2 Beers,50 Ratings,(3.543),https://untappd.com/brewery/417762,01/04/2020 10:20:33
+Brauerei G48,Switzerland,Nano Brewery,14 Beers,50 Ratings,(0),https://untappd.com/brewery/291903,01/04/2020 10:20:34
+Grundlos Brauerei,Switzerland,Nano Brewery,2 Beers,49 Ratings,(3.235),https://untappd.com/brewery/289351,01/04/2020 10:20:34
+Le Maître dé Bataille,Switzerland,Nano Brewery,6 Beers,49 Ratings,(3.25),https://untappd.com/brewery/207369,01/04/2020 10:20:34
+Büchler Zu Mägenwil,Switzerland,Nano Brewery,8 Beers,49 Ratings,(2.932),https://untappd.com/brewery/152471,01/04/2020 10:20:35
+Cervisia,Switzerland,Contract Brewery,3 Beers,49 Ratings,(2.976),https://untappd.com/brewery/145484,01/04/2020 10:20:35
+Cidre Rusé Sa,Switzerland,Cidery,1 Beer,48 Ratings,(3.417),https://untappd.com/brewery/402859,01/04/2020 10:20:36
+Brauerei Wiggerli,Switzerland,Nano Brewery,7 Beers,48 Ratings,(3.285),https://untappd.com/brewery/376693,01/04/2020 10:20:36
+Chübelimoser,Switzerland,Brew Pub,6 Beers,48 Ratings,(3.534),https://untappd.com/brewery/301354,01/04/2020 10:20:37
+Eburon Brewing,Switzerland,Nano Brewery,7 Beers,47 Ratings,(3.405),https://untappd.com/brewery/438286,01/04/2020 10:20:38
+Brasserie des Bains,Switzerland,Nano Brewery,9 Beers,47 Ratings,(3.679),https://untappd.com/brewery/185456,01/04/2020 10:20:38
+Bürchner Bier,Switzerland,Nano Brewery,4 Beers,47 Ratings,(3.285),https://untappd.com/brewery/162569,01/04/2020 10:20:39
+Quatre Pouces,Switzerland,Nano Brewery,12 Beers,46 Ratings,(0),https://untappd.com/brewery/436946,01/04/2020 10:20:39
+Lindenbergbräu,Switzerland,Nano Brewery,0 Beer,46 Ratings,(3.07),https://untappd.com/brewery/154230,01/04/2020 10:20:39
+Brauerei Starrest,Switzerland,Nano Brewery,0 Beer,46 Ratings,(2.96),https://untappd.com/brewery/149031,01/04/2020 10:20:40
+Samigo,Switzerland,Nano Brewery,1 Beer,45 Ratings,(3.117),https://untappd.com/brewery/440091,01/04/2020 10:20:40
+Geronimo Bräu,Switzerland,Nano Brewery,7 Beers,45 Ratings,(3.269),https://untappd.com/brewery/410014,01/04/2020 10:20:40
+Cargo Bar,Switzerland,Brew Pub,3 Beers,45 Ratings,(3.06),https://untappd.com/brewery/181938,01/04/2020 10:20:41
+Cathélaz,Switzerland,Nano Brewery,14 Beers,44 Ratings,(3.525),https://untappd.com/brewery/82484,01/04/2020 10:20:41
+Feintrunk,Switzerland,Nano Brewery,10 Beers,44 Ratings,(0),https://untappd.com/brewery/449095,01/04/2020 10:20:42
+Hopferdammi,Switzerland,Nano Brewery,7 Beers,44 Ratings,(3.353),https://untappd.com/brewery/413527,01/04/2020 10:20:42
+Guldentaler Bier GmbH,Switzerland,Nano Brewery,6 Beers,44 Ratings,(3.179),https://untappd.com/brewery/268958,01/04/2020 10:20:43
+Asatec AG (Murerbier),Switzerland,Nano Brewery,3 Beers,44 Ratings,(3.281),https://untappd.com/brewery/247700,01/04/2020 10:20:43
+Van Maisenberg,Switzerland,Nano Brewery,9 Beers,43 Ratings,(3.333),https://untappd.com/brewery/409997,01/04/2020 10:20:44
+GIZ AIS,Switzerland,Nano Brewery,6 Beers,43 Ratings,(3.482),https://untappd.com/brewery/391848,01/04/2020 10:20:44
+Kläf Kläf Brew,Switzerland,Nano Brewery,7 Beers,43 Ratings,(3.7),https://untappd.com/brewery/297752,01/04/2020 10:20:44
+Braukeller Neustadtstrasse Luzern,Switzerland,Brew Pub,1 Beer,42 Ratings,(3.292),https://untappd.com/brewery/383292,01/04/2020 10:20:45
+Chäserstatt,Switzerland,Nano Brewery,4 Beers,42 Ratings,(3.55),https://untappd.com/brewery/356745,01/04/2020 10:20:45
+Canobeer,Switzerland,Nano Brewery,7 Beers,42 Ratings,(3.472),https://untappd.com/brewery/275565,01/04/2020 10:20:45
+Brauhaus Uto,Switzerland,Nano Brewery,23 Beers,42 Ratings,(0),https://untappd.com/brewery/236999,01/04/2020 10:20:46
+BrewBrothers,Switzerland,Nano Brewery,5 Beers,42 Ratings,(3.49),https://untappd.com/brewery/173383,01/04/2020 10:20:46
+Wagerswiler Bräu,Switzerland,Nano Brewery,9 Beers,42 Ratings,(3.205),https://untappd.com/brewery/172804,01/04/2020 10:20:47
+Kohlmann's,Switzerland,Bar / Restaurant / Store,1 Beer,41 Ratings,(3.512),https://untappd.com/brewery/355481,01/04/2020 10:20:47
+Birra Schmid,Switzerland,Nano Brewery,3 Beers,41 Ratings,(3.05),https://untappd.com/brewery/250869,01/04/2020 10:20:47
+Brasserie la Spirale,Switzerland,Nano Brewery,4 Beers,40 Ratings,(3.376),https://untappd.com/brewery/401825,01/04/2020 10:20:48
+1386,Switzerland,Nano Brewery,6 Beers,40 Ratings,(3.431),https://untappd.com/brewery/382771,01/04/2020 10:20:48
+Wäbis Brauerei,Switzerland,Nano Brewery,8 Beers,40 Ratings,(4.104),https://untappd.com/brewery/363998,01/04/2020 10:20:48
+CM Brauhaus,Switzerland,Bar / Restaurant / Store,7 Beers,40 Ratings,(3.481),https://untappd.com/brewery/342122,01/04/2020 10:20:49
+Backstabber,Switzerland,Cidery,4 Beers,40 Ratings,(3.492),https://untappd.com/brewery/341678,01/04/2020 10:20:49
+Selvatici,Switzerland,Nano Brewery,7 Beers,40 Ratings,(3.414),https://untappd.com/brewery/312001,01/04/2020 10:20:49
+Culina Bräu,Switzerland,Nano Brewery,13 Beers,40 Ratings,(3.364),https://untappd.com/brewery/218257,01/04/2020 10:20:50
+Chicco Bräu,Switzerland,Nano Brewery,11 Beers,40 Ratings,(0),https://untappd.com/brewery/190848,01/04/2020 10:20:50
+Mosterei Oswald + Ruch,Switzerland,Cidery,8 Beers,39 Ratings,(0),https://untappd.com/brewery/438505,01/04/2020 10:20:50
+Chez Vrony,Switzerland,Bar / Restaurant / Store,1 Beer,39 Ratings,(3.403),https://untappd.com/brewery/379155,01/04/2020 10:20:51
+Brasserie Urbaine Genevoise,Switzerland,Nano Brewery,15 Beers,39 Ratings,(3.6),https://untappd.com/brewery/153860,01/04/2020 10:20:51
+Bière Buse,Switzerland,Nano Brewery,2 Beers,39 Ratings,(3.19),https://untappd.com/brewery/129599,01/04/2020 10:20:51
+Brauerei Thun AG,Switzerland,Nano Brewery,2 Beers,38 Ratings,(3.66),https://untappd.com/brewery/406797,01/04/2020 10:20:52
+Full House Brewery,Switzerland,Nano Brewery,5 Beers,38 Ratings,(3.252),https://untappd.com/brewery/363476,01/04/2020 10:20:52
+Bannwald Brewery,Switzerland,Nano Brewery,9 Beers,38 Ratings,(0),https://untappd.com/brewery/361373,01/04/2020 10:20:52
+Schori's Beer,Switzerland,Nano Brewery,10 Beers,38 Ratings,(3.75),https://untappd.com/brewery/360042,01/04/2020 10:20:53
+Ulf & The Wolf,Switzerland,Nano Brewery,3 Beers,38 Ratings,(3.785),https://untappd.com/brewery/300563,01/04/2020 10:20:53
+Brauerei BoGe,Switzerland,Nano Brewery,9 Beers,37 Ratings,(0),https://untappd.com/brewery/431488,01/04/2020 10:20:53
+Bieruri,Switzerland,Nano Brewery,7 Beers,37 Ratings,(0),https://untappd.com/brewery/387526,01/04/2020 10:20:54
+Bières Des Minibulles,Switzerland,Contract Brewery,2 Beers,37 Ratings,(3.523),https://untappd.com/brewery/355487,01/04/2020 10:20:54
+L'Agneau à Trois Pattes,Switzerland,Micro Brewery,6 Beers,37 Ratings,(3.875),https://untappd.com/brewery/347587,01/04/2020 10:20:54
+Sankt Johanns Bräu,Switzerland,Nano Brewery,6 Beers,37 Ratings,(0),https://untappd.com/brewery/292999,01/04/2020 10:20:55
+Stögu-Bier,Switzerland,Nano Brewery,7 Beers,37 Ratings,(3.502),https://untappd.com/brewery/214875,01/04/2020 10:20:55
+Stozi-Bräu,Switzerland,Nano Brewery,9 Beers,37 Ratings,(3.159),https://untappd.com/brewery/162599,01/04/2020 10:20:55
+La Prévert,Switzerland,Nano Brewery,9 Beers,37 Ratings,(0),https://untappd.com/brewery/155315,01/04/2020 10:20:56
+Stägi Bräu,Switzerland,Nano Brewery,7 Beers,36 Ratings,(3.821),https://untappd.com/brewery/40186,01/04/2020 10:20:56
+Sonnrain Brauerei,Switzerland,Nano Brewery,4 Beers,36 Ratings,(3.121),https://untappd.com/brewery/348573,01/04/2020 10:20:56
+Tucho Brew,Switzerland,Nano Brewery,13 Beers,35 Ratings,(3.523),https://untappd.com/brewery/411730,01/04/2020 10:20:57
+Penny Farthing,Switzerland,Bar / Restaurant / Store,1 Beer,35 Ratings,(3.379),https://untappd.com/brewery/351763,01/04/2020 10:20:57
+Braubär Brauerei,Switzerland,Nano Brewery,4 Beers,35 Ratings,(3.324),https://untappd.com/brewery/340649,01/04/2020 10:20:57
+3 Finger Joe,Switzerland,Nano Brewery,9 Beers,35 Ratings,(0),https://untappd.com/brewery/329525,01/04/2020 10:20:58
+Herrenberg Bräu,Switzerland,Nano Brewery,11 Beers,35 Ratings,(0),https://untappd.com/brewery/235133,01/04/2020 10:20:58
+Chrüpfe Bier,Switzerland,Nano Brewery,8 Beers,35 Ratings,(3.596),https://untappd.com/brewery/209141,01/04/2020 10:20:58
+La Diablesse,Switzerland,Nano Brewery,5 Beers,35 Ratings,(3.305),https://untappd.com/brewery/449571,01/04/2020 10:20:59
+Brasserie Du Plombier,Switzerland,Nano Brewery,8 Beers,34 Ratings,(3.354),https://untappd.com/brewery/417696,01/04/2020 10:20:59
+Fäze Bräu,Switzerland,Nano Brewery,7 Beers,34 Ratings,(3.625),https://untappd.com/brewery/403089,01/04/2020 10:20:59
+Zipfelbier,Switzerland,Nano Brewery,4 Beers,34 Ratings,(3.47),https://untappd.com/brewery/297094,01/04/2020 10:21:00
+la Collégiale,Switzerland,Nano Brewery,6 Beers,34 Ratings,(3.417),https://untappd.com/brewery/269243,01/04/2020 10:21:00
+Haxli Schwändi Bräu,Switzerland,Nano Brewery,3 Beers,34 Ratings,(3.621),https://untappd.com/brewery/210550,01/04/2020 10:21:00
+Landhotel Hirschen,Switzerland,Bar / Restaurant / Store,1 Beer,34 Ratings,(3.61),https://untappd.com/brewery/205948,01/04/2020 10:21:01
+Brasserie de l'Ours,Switzerland,Brew Pub,4 Beers,34 Ratings,(3.229),https://untappd.com/brewery/124678,01/04/2020 10:21:01
+BrauWerk,Switzerland,Nano Brewery,5 Beers,33 Ratings,(3.438),https://untappd.com/brewery/65018,01/04/2020 10:21:01
+PeRo Brauerei,Switzerland,Nano Brewery,7 Beers,33 Ratings,(0),https://untappd.com/brewery/380776,01/04/2020 10:21:02
+Kägi Bräu,Switzerland,Nano Brewery,8 Beers,33 Ratings,(0),https://untappd.com/brewery/369852,01/04/2020 10:21:02
+Riminy,Switzerland,Nano Brewery,15 Beers,33 Ratings,(0),https://untappd.com/brewery/297826,01/04/2020 10:21:02
+Courtysane,Switzerland,Nano Brewery,5 Beers,33 Ratings,(0),https://untappd.com/brewery/199716,01/04/2020 10:21:03
+Brummbacher,Switzerland,Nano Brewery,5 Beers,33 Ratings,(3.413),https://untappd.com/brewery/140684,01/04/2020 10:21:03
+Hof-Braui,Switzerland,Nano Brewery,10 Beers,33 Ratings,(0),https://untappd.com/brewery/140534,01/04/2020 10:21:03
+Wilde Maa,Switzerland,Cidery,1 Beer,32 Ratings,(3.586),https://untappd.com/brewery/392707,01/04/2020 10:21:04
+Brauerei Vitznau,Switzerland,Nano Brewery,4 Beers,32 Ratings,(3.615),https://untappd.com/brewery/389725,01/04/2020 10:21:04
+Les Deux Souris,Switzerland,Nano Brewery,8 Beers,32 Ratings,(0),https://untappd.com/brewery/246393,01/04/2020 10:21:05
+Guldibräu - 47grad Nord,Switzerland,Nano Brewery,0 Beer,31 Ratings,(3.382),https://untappd.com/brewery/83163,01/04/2020 10:21:05
+Don Nino,Switzerland,Nano Brewery,3 Beers,31 Ratings,(3.696),https://untappd.com/brewery/411648,01/04/2020 10:21:05
+Grain Zurich,Switzerland,Bar / Restaurant / Store,6 Beers,31 Ratings,(0),https://untappd.com/brewery/411336,01/04/2020 10:21:06
+Brasserie Artisanale Du Mât,Switzerland,Nano Brewery,3 Beers,31 Ratings,(3.576),https://untappd.com/brewery/395303,01/04/2020 10:21:06
+la Faougueuse,Switzerland,Nano Brewery,11 Beers,31 Ratings,(0),https://untappd.com/brewery/294626,01/04/2020 10:21:06
+8406,Switzerland,Nano Brewery,9 Beers,31 Ratings,(3.075),https://untappd.com/brewery/254712,01/04/2020 10:21:07
+Muschtibräu,Switzerland,Nano Brewery,3 Beers,31 Ratings,(3.153),https://untappd.com/brewery/160205,01/04/2020 10:21:07
+Heidnisch Bier,Switzerland,Nano Brewery,2 Beers,30 Ratings,(3.603),https://untappd.com/brewery/416076,01/04/2020 10:21:07
+Joranbräu GmbH,Switzerland,Nano Brewery,8 Beers,30 Ratings,(3.425),https://untappd.com/brewery/386863,01/04/2020 10:21:08
+BlackDot Cider,Switzerland,Cidery,4 Beers,30 Ratings,(3.33),https://untappd.com/brewery/377613,01/04/2020 10:21:08
+Rütihöfler Bräu,Switzerland,Nano Brewery,6 Beers,30 Ratings,(3.479),https://untappd.com/brewery/279457,01/04/2020 10:21:08
+Magie Bräu,Switzerland,Nano Brewery,9 Beers,30 Ratings,(3.393),https://untappd.com/brewery/208597,01/04/2020 10:21:09
+165,Switzerland,Nano Brewery,12 Beers,30 Ratings,(0),https://untappd.com/brewery/174462,01/04/2020 10:21:09
+Festbierbrauerei Stollo's Best,Switzerland,Nano Brewery,10 Beers,29 Ratings,(0),https://untappd.com/brewery/431632,01/04/2020 10:21:09
+Viking Brew Lab,Switzerland,Nano Brewery,5 Beers,29 Ratings,(3.658),https://untappd.com/brewery/414988,01/04/2020 10:21:10
+La Brassée Du Chevrier,Switzerland,Nano Brewery,3 Beers,29 Ratings,(3.063),https://untappd.com/brewery/408609,01/04/2020 10:21:10
+Äigebraij,Switzerland,Nano Brewery,6 Beers,29 Ratings,(3.45),https://untappd.com/brewery/365600,01/04/2020 10:21:10
+Brasserie du Cerbère,Switzerland,Nano Brewery,0 Beer,29 Ratings,(0),https://untappd.com/brewery/338082,01/04/2020 10:21:11
+Brasserie du Poyet,Switzerland,Nano Brewery,8 Beers,29 Ratings,(0),https://untappd.com/brewery/334145,01/04/2020 10:21:11
+Köchli Steinmaur,Switzerland,Nano Brewery,4 Beers,29 Ratings,(3.455),https://untappd.com/brewery/298473,01/04/2020 10:21:11
+Pension Gimmelwald,Switzerland,Brew Pub,0 Beer,29 Ratings,(0),https://untappd.com/brewery/153959,01/04/2020 10:21:12
+Bierliebe,Switzerland,Nano Brewery,1 Beer,28 Ratings,(3.491),https://untappd.com/brewery/452730,01/04/2020 10:21:12
+Brews Brothers,Switzerland,Nano Brewery,7 Beers,28 Ratings,(0),https://untappd.com/brewery/447247,01/04/2020 10:21:12
+Braugarage Reinach,Switzerland,Nano Brewery,5 Beers,28 Ratings,(3.659),https://untappd.com/brewery/431474,01/04/2020 10:21:13
+Sohnemann,Switzerland,Nano Brewery,10 Beers,28 Ratings,(3.8),https://untappd.com/brewery/428392,01/04/2020 10:21:13
+Löwen Garten,Switzerland,Micro Brewery,1 Beer,28 Ratings,(3.009),https://untappd.com/brewery/426007,01/04/2020 10:21:13
+Cadar SA,Switzerland,Contract Brewery,2 Beers,28 Ratings,(2.587),https://untappd.com/brewery/403149,01/04/2020 10:21:14
+Faiseurs de Bière,Switzerland,Micro Brewery,0 Beer,28 Ratings,(0),https://untappd.com/brewery/36037,01/04/2020 10:21:14
+Bironsa,Switzerland,Nano Brewery,7 Beers,28 Ratings,(0),https://untappd.com/brewery/353666,01/04/2020 10:21:14
+Gruebe Bräu,Switzerland,Nano Brewery,8 Beers,28 Ratings,(3.396),https://untappd.com/brewery/347181,01/04/2020 10:21:15
+Seegal,Switzerland,Nano Brewery,16 Beers,28 Ratings,(0),https://untappd.com/brewery/198642,01/04/2020 10:21:15
+Schlugg,Switzerland,Nano Brewery,4 Beers,28 Ratings,(3.489),https://untappd.com/brewery/141592,01/04/2020 10:21:15
+Little Switzerland,United States,Bar / Restaurant / Store,1 Beer,28 Ratings,(3.696),https://untappd.com/brewery/128571,01/04/2020 10:21:16
+Hotel Brauerei Frohsinn,Switzerland,Brew Pub,8 Beers,27 Ratings,(3.5),https://untappd.com/brewery/569,01/04/2020 10:21:16
+Super Brew Bros.,Switzerland,Nano Brewery,2 Beers,27 Ratings,(3.944),https://untappd.com/brewery/455597,01/04/2020 10:21:16
+Brasserie d'Oleyres,Switzerland,Nano Brewery,6 Beers,27 Ratings,(3.614),https://untappd.com/brewery/363219,01/04/2020 10:21:17
+Langnouer Braui,Switzerland,Nano Brewery,7 Beers,27 Ratings,(2.875),https://untappd.com/brewery/268282,01/04/2020 10:21:17
+Brasserie Artisanale de Porrentruy,Switzerland,Nano Brewery,5 Beers,27 Ratings,(0),https://untappd.com/brewery/227653,01/04/2020 10:21:18
+Heftig,Switzerland,Nano Brewery,6 Beers,26 Ratings,(0),https://untappd.com/brewery/443141,01/04/2020 10:21:18
+A&F Kaess,Switzerland,Nano Brewery,3 Beers,26 Ratings,(3.42),https://untappd.com/brewery/424239,01/04/2020 10:21:18
+Extra-Muros,Switzerland,Nano Brewery,4 Beers,26 Ratings,(3.839),https://untappd.com/brewery/398001,01/04/2020 10:21:19
+Brasserie de la Choufaille,Switzerland,Nano Brewery,5 Beers,26 Ratings,(3.864),https://untappd.com/brewery/384559,01/04/2020 10:21:19
+Brasserie Du Nord,Switzerland,Nano Brewery,4 Beers,26 Ratings,(0),https://untappd.com/brewery/354244,01/04/2020 10:21:19
+Muhen Bräu,Switzerland,Nano Brewery,17 Beers,26 Ratings,(0),https://untappd.com/brewery/345152,01/04/2020 10:21:20
+B'rs Bierwerk,Switzerland,Nano Brewery,4 Beers,26 Ratings,(0),https://untappd.com/brewery/337830,01/04/2020 10:21:20
+R. Kahn,Switzerland,Nano Brewery,4 Beers,26 Ratings,(3.825),https://untappd.com/brewery/329143,01/04/2020 10:21:20
+la Grenade,Switzerland,Nano Brewery,4 Beers,26 Ratings,(3.373),https://untappd.com/brewery/292895,01/04/2020 10:21:21
+Manor AG,Switzerland,Bar / Restaurant / Store,4 Beers,27 Ratings,(3.303),https://untappd.com/brewery/291348,01/04/2020 10:21:21
+Hausbrauerei Zulg,Switzerland,Nano Brewery,7 Beers,26 Ratings,(0),https://untappd.com/brewery/163285,01/04/2020 10:21:21
+Tannzapfenbräu,Switzerland,Nano Brewery,8 Beers,26 Ratings,(0),https://untappd.com/brewery/112833,01/04/2020 10:21:22
+Üdiker Braufründe,Switzerland,Nano Brewery,7 Beers,26 Ratings,(3.525),https://untappd.com/brewery/452092,01/04/2020 10:21:22
+DOGZILLA,Switzerland,Nano Brewery,5 Beers,25 Ratings,(3.768),https://untappd.com/brewery/450489,01/04/2020 10:21:22
+Kwär,Switzerland,Nano Brewery,6 Beers,25 Ratings,(0),https://untappd.com/brewery/437475,01/04/2020 10:21:23
+Urban Food Culture,Switzerland,Bar / Restaurant / Store,3 Beers,25 Ratings,(3.117),https://untappd.com/brewery/437260,01/04/2020 10:21:23
+Bäramsle-Bier,Switzerland,Nano Brewery,11 Beers,25 Ratings,(0),https://untappd.com/brewery/414741,01/04/2020 10:21:24
+St. Salvatore,Switzerland,Nano Brewery,5 Beers,25 Ratings,(0),https://untappd.com/brewery/412504,01/04/2020 10:21:24
+Damijo,Switzerland,Nano Brewery,7 Beers,25 Ratings,(0),https://untappd.com/brewery/392448,01/04/2020 10:21:24
+Brasserie d'Ouchy,Switzerland,Nano Brewery,3 Beers,25 Ratings,(0),https://untappd.com/brewery/380262,01/04/2020 10:21:25
+Rotmoosbräu,Switzerland,Nano Brewery,9 Beers,25 Ratings,(0),https://untappd.com/brewery/360879,01/04/2020 10:21:25
+Aurum,Switzerland,Nano Brewery,1 Beer,24 Ratings,(3.115),https://untappd.com/brewery/434864,01/04/2020 10:21:25
+NawaK,Switzerland,Nano Brewery,4 Beers,24 Ratings,(4.147),https://untappd.com/brewery/393673,01/04/2020 10:21:26
+La Brasserie Des Cinq Communes,Switzerland,Nano Brewery,3 Beers,24 Ratings,(3),https://untappd.com/brewery/380884,01/04/2020 10:21:26
+Schlossbrauerei Rued,Switzerland,Nano Brewery,2 Beers,24 Ratings,(3.603),https://untappd.com/brewery/368177,01/04/2020 10:21:26
+Hans Im Glück,Switzerland,Nano Brewery,3 Beers,24 Ratings,(2.903),https://untappd.com/brewery/365682,01/04/2020 10:21:27
+Brasserie Montheysanne,Switzerland,Nano Brewery,4 Beers,24 Ratings,(0),https://untappd.com/brewery/252821,01/04/2020 10:21:27
+Brauerei Seetal,Switzerland,Nano Brewery,7 Beers,24 Ratings,(0),https://untappd.com/brewery/226953,01/04/2020 10:21:27
+Budken,Switzerland,Nano Brewery,2 Beers,24 Ratings,(2.88),https://untappd.com/brewery/218259,01/04/2020 10:21:28
+Brisenbräu,Switzerland,Nano Brewery,5 Beers,24 Ratings,(3.844),https://untappd.com/brewery/170391,01/04/2020 10:21:28
+La Caribout'eille,Switzerland,Bar / Restaurant / Store,1 Beer,24 Ratings,(3.115),https://untappd.com/brewery/151058,01/04/2020 10:21:29
+Wolf Eigenbrau,Switzerland,Bar / Restaurant / Store,1 Beer,23 Ratings,(3.63),https://untappd.com/brewery/435760,01/04/2020 10:21:29
+Centurio Bier,Switzerland,Nano Brewery,6 Beers,23 Ratings,(0),https://untappd.com/brewery/415653,01/04/2020 10:21:30
+Presserie Tüebberg,Switzerland,Nano Brewery,3 Beers,23 Ratings,(3.229),https://untappd.com/brewery/414879,01/04/2020 10:21:30
+Brauerei Saubanner,Switzerland,Nano Brewery,18 Beers,23 Ratings,(0),https://untappd.com/brewery/413489,01/04/2020 10:21:31
+Les 3 Mousses,Switzerland,Nano Brewery,9 Beers,23 Ratings,(0),https://untappd.com/brewery/406476,01/04/2020 10:21:31
+Heerbrugger Bier,Switzerland,Nano Brewery,9 Beers,23 Ratings,(0),https://untappd.com/brewery/400706,01/04/2020 10:21:32
+Littoral Neuchâtelois,Switzerland,Nano Brewery,6 Beers,23 Ratings,(0),https://untappd.com/brewery/351110,01/04/2020 10:21:32
+Aroda,Switzerland,Nano Brewery,9 Beers,23 Ratings,(3.05),https://untappd.com/brewery/281357,01/04/2020 10:21:33
+Brasserie du Griffon,Switzerland,Contract Brewery,3 Beers,23 Ratings,(3.536),https://untappd.com/brewery/205028,01/04/2020 10:21:33
+Les Pères Fruit'art,Switzerland,Cidery,5 Beers,23 Ratings,(0),https://untappd.com/brewery/203782,01/04/2020 10:21:34
+Fränzu-Bräu-Belp,Switzerland,Nano Brewery,8 Beers,23 Ratings,(0),https://untappd.com/brewery/199330,01/04/2020 10:21:34
+La Gerboise,Switzerland,Nano Brewery,5 Beers,23 Ratings,(3.45),https://untappd.com/brewery/144902,01/04/2020 10:21:34
+Gääbelihaini,Switzerland,Nano Brewery,8 Beers,22 Ratings,(0),https://untappd.com/brewery/426212,01/04/2020 10:21:35
+La Fée Maltée,Switzerland,Nano Brewery,6 Beers,22 Ratings,(0),https://untappd.com/brewery/415954,01/04/2020 10:21:35
+Hoppy Bär,Switzerland,Nano Brewery,1 Beer,22 Ratings,(3.955),https://untappd.com/brewery/412492,01/04/2020 10:21:36
+Zum Braunen Mutz,Switzerland,Bar / Restaurant / Store,2 Beers,22 Ratings,(3.297),https://untappd.com/brewery/410496,01/04/2020 10:21:36
+Berlibus,Switzerland,Nano Brewery,5 Beers,22 Ratings,(0),https://untappd.com/brewery/403412,01/04/2020 10:21:36
+Four Elements Beer,Switzerland,Nano Brewery,9 Beers,22 Ratings,(0),https://untappd.com/brewery/375987,01/04/2020 10:21:37
+Brauerei Schwÿz,Switzerland,Nano Brewery,11 Beers,22 Ratings,(0),https://untappd.com/brewery/344868,01/04/2020 10:21:37
+Büffelbier,Switzerland,Nano Brewery,6 Beers,22 Ratings,(0),https://untappd.com/brewery/311428,01/04/2020 10:21:38
+Element Brauerei AG,Switzerland,Nano Brewery,4 Beers,22 Ratings,(0),https://untappd.com/brewery/286690,01/04/2020 10:21:38
+BrauLux,Switzerland,Nano Brewery,8 Beers,21 Ratings,(0),https://untappd.com/brewery/455920,01/04/2020 10:21:38
+Palestine Grill,Switzerland,Bar / Restaurant / Store,1 Beer,21 Ratings,(3.024),https://untappd.com/brewery/442691,01/04/2020 10:21:39
+Ägeribier,Switzerland,Nano Brewery,1 Beer,21 Ratings,(3.426),https://untappd.com/brewery/427643,01/04/2020 10:21:39
+Tschifeler-Craft,Switzerland,Nano Brewery,9 Beers,21 Ratings,(0),https://untappd.com/brewery/42501,01/04/2020 10:21:40
+Simply Bier,Switzerland,Nano Brewery,23 Beers,21 Ratings,(0),https://untappd.com/brewery/403834,01/04/2020 10:21:40
+Butler 777,Switzerland,Nano Brewery,8 Beers,21 Ratings,(0),https://untappd.com/brewery/401776,01/04/2020 10:21:40
+Büele Bräu,Switzerland,Nano Brewery,2 Beers,21 Ratings,(3.268),https://untappd.com/brewery/391250,01/04/2020 10:21:41
+Ärlischbacher,Switzerland,Nano Brewery,4 Beers,21 Ratings,(3.359),https://untappd.com/brewery/384141,01/04/2020 10:21:41
+Kleinbrauerei Felder,Switzerland,Micro Brewery,4 Beers,21 Ratings,(0),https://untappd.com/brewery/346220,01/04/2020 10:21:42
+PlantaMed Bolliger,Switzerland,Cidery,8 Beers,21 Ratings,(0),https://untappd.com/brewery/335000,01/04/2020 10:21:42
+Rieder Bier,Switzerland,Nano Brewery,4 Beers,21 Ratings,(3.109),https://untappd.com/brewery/333068,01/04/2020 10:21:43
+Hoppy Hour,Switzerland,Nano Brewery,6 Beers,21 Ratings,(0),https://untappd.com/brewery/330810,01/04/2020 10:21:43
+Patschiifig Bräu,Switzerland,Nano Brewery,5 Beers,21 Ratings,(3.467),https://untappd.com/brewery/313369,01/04/2020 10:21:43
+les Combières,Switzerland,Nano Brewery,2 Beers,21 Ratings,(3.5),https://untappd.com/brewery/311104,01/04/2020 10:21:44
+Harbour House,Switzerland,Bar / Restaurant / Store,1 Beer,21 Ratings,(2.893),https://untappd.com/brewery/310897,01/04/2020 10:21:44
+Kreuzmühle,Switzerland,Nano Brewery,1 Beer,21 Ratings,(2.976),https://untappd.com/brewery/305116,01/04/2020 10:21:44
+Seis Bier,Switzerland,Nano Brewery,5 Beers,21 Ratings,(3.396),https://untappd.com/brewery/275598,01/04/2020 10:21:45
+Brauerei BrauArt,Switzerland,Nano Brewery,9 Beers,21 Ratings,(0),https://untappd.com/brewery/262677,01/04/2020 10:21:45
+Sam's Bière Amicale,Switzerland,Nano Brewery,2 Beers,21 Ratings,(3.25),https://untappd.com/brewery/231308,01/04/2020 10:21:46
+AnBrew,Switzerland,Nano Brewery,20 Beers,20 Ratings,(0),https://untappd.com/brewery/47992,01/04/2020 10:21:46
+Schnuzz Brauerei,Switzerland,Nano Brewery,6 Beers,20 Ratings,(0),https://untappd.com/brewery/432390,01/04/2020 10:21:46
+Murith,Switzerland,Nano Brewery,4 Beers,20 Ratings,(0),https://untappd.com/brewery/410415,01/04/2020 10:21:47
+Brau-Art Dals Bofs,Switzerland,Nano Brewery,5 Beers,20 Ratings,(0),https://untappd.com/brewery/399833,01/04/2020 10:21:47
+Barbarus Bäri-Bier,Switzerland,Nano Brewery,2 Beers,20 Ratings,(3.583),https://untappd.com/brewery/306633,01/04/2020 10:21:47
+Annivia St-Luc,Switzerland,Nano Brewery,8 Beers,20 Ratings,(0),https://untappd.com/brewery/250782,01/04/2020 10:21:48
+Aathaler Bräu,Switzerland,Nano Brewery,11 Beers,20 Ratings,(0),https://untappd.com/brewery/249195,01/04/2020 10:21:48
+Brasserie de L'Annwn,Switzerland,Nano Brewery,8 Beers,20 Ratings,(0),https://untappd.com/brewery/233770,01/04/2020 10:21:49
+Gentlemen Brewers,Switzerland,Nano Brewery,6 Beers,20 Ratings,(0),https://untappd.com/brewery/421611,01/04/2020 10:21:49
+Wellsh Brewery,Switzerland,Nano Brewery,2 Beers,19 Ratings,(3.55),https://untappd.com/brewery/407937,01/04/2020 10:21:49
+Brauerei Rossgrind,Switzerland,Nano Brewery,7 Beers,19 Ratings,(0),https://untappd.com/brewery/393987,01/04/2020 10:21:50
+NOBOOB,Switzerland,Nano Brewery,7 Beers,19 Ratings,(0),https://untappd.com/brewery/393798,01/04/2020 10:21:50
+Impulsion,Switzerland,Nano Brewery,9 Beers,19 Ratings,(0),https://untappd.com/brewery/363360,01/04/2020 10:21:50
+Deux Casseroles,Switzerland,Nano Brewery,4 Beers,19 Ratings,(0),https://untappd.com/brewery/353908,01/04/2020 10:21:51
+Brasserie des Ecureuils / Brâtherie Di Yèrdza,Switzerland,Nano Brewery,6 Beers,19 Ratings,(0),https://untappd.com/brewery/335761,01/04/2020 10:21:51
+L'ancienne Gare Fribourg,Switzerland,Bar / Restaurant / Store,1 Beer,19 Ratings,(3.447),https://untappd.com/brewery/297838,01/04/2020 10:21:52
+Hof Maran,Switzerland,Bar / Restaurant / Store,1 Beer,19 Ratings,(3.132),https://untappd.com/brewery/187867,01/04/2020 10:21:52
+La Vie Est Bellege,Switzerland,Nano Brewery,3 Beers,18 Ratings,(0),https://untappd.com/brewery/456322,01/04/2020 10:21:52
+Varius,Switzerland,Nano Brewery,3 Beers,18 Ratings,(3.091),https://untappd.com/brewery/435208,01/04/2020 10:21:53
+Siegenthaler & Lüthy,Switzerland,Nano Brewery,5 Beers,18 Ratings,(0),https://untappd.com/brewery/419360,01/04/2020 10:21:53
+Brauhaus Zum Verlorenen Hopfen,Switzerland,Nano Brewery,3 Beers,18 Ratings,(0),https://untappd.com/brewery/415903,01/04/2020 10:21:53
+Buchser Landbier,Switzerland,Nano Brewery,4 Beers,18 Ratings,(0),https://untappd.com/brewery/406468,01/04/2020 10:21:54
+Brauchon,Switzerland,Nano Brewery,3 Beers,18 Ratings,(3.458),https://untappd.com/brewery/401479,01/04/2020 10:21:54
+BoFo-Bräu,Switzerland,Nano Brewery,2 Beers,18 Ratings,(3.074),https://untappd.com/brewery/395570,01/04/2020 10:21:54
+Brauerei Berger,Switzerland,Nano Brewery,3 Beers,18 Ratings,(0),https://untappd.com/brewery/395382,01/04/2020 10:21:55
+Brasserie Artisanale De Mies,Switzerland,Nano Brewery,9 Beers,18 Ratings,(0),https://untappd.com/brewery/391331,01/04/2020 10:21:55
+Gässli-Bräu,Switzerland,Nano Brewery,2 Beers,18 Ratings,(3.412),https://untappd.com/brewery/370990,01/04/2020 10:21:56
+High 5 Bier,Switzerland,Nano Brewery,6 Beers,18 Ratings,(0),https://untappd.com/brewery/365504,01/04/2020 10:21:56
+The Sangal,Switzerland,Nano Brewery,4 Beers,18 Ratings,(0),https://untappd.com/brewery/364516,01/04/2020 10:21:56
+UrPur,Switzerland,Nano Brewery,3 Beers,18 Ratings,(0),https://untappd.com/brewery/302683,01/04/2020 10:21:57
+Knüxx,Switzerland,Nano Brewery,4 Beers,18 Ratings,(2.675),https://untappd.com/brewery/199299,01/04/2020 10:21:57
+Stocha Bräu,Switzerland,Nano Brewery,5 Beers,18 Ratings,(0),https://untappd.com/brewery/193830,01/04/2020 10:21:58
+Buff und Würmli Bier,Switzerland,Contract Brewery,14 Beers,17 Ratings,(0),https://untappd.com/brewery/449225,01/04/2020 10:21:58
+Brau-Schüür,Switzerland,Nano Brewery,2 Beers,17 Ratings,(3.775),https://untappd.com/brewery/445378,01/04/2020 10:21:59
+Milchhütte,Switzerland,Nano Brewery,9 Beers,17 Ratings,(0),https://untappd.com/brewery/411937,01/04/2020 10:21:59
+Ciderfairy,Switzerland,Cidery,5 Beers,17 Ratings,(3.545),https://untappd.com/brewery/411405,01/04/2020 10:22:00
+Gartengold,Switzerland,Cidery,1 Beer,17 Ratings,(3.309),https://untappd.com/brewery/403629,01/04/2020 10:22:00
+ABAG - Association des Brasseurs Artisans de Genève,Switzerland,Nano Brewery,0 Beer,17 Ratings,(0),https://untappd.com/brewery/395582,01/04/2020 10:22:01
+Kohldampf,Switzerland,Bar / Restaurant / Store,2 Beers,17 Ratings,(2.982),https://untappd.com/brewery/365318,01/04/2020 10:22:01
+Brauwerkstatt Edelholz,Switzerland,Nano Brewery,1 Beer,17 Ratings,(3.662),https://untappd.com/brewery/350741,01/04/2020 10:22:01
+Brauverein Xlinger,Switzerland,Nano Brewery,2 Beers,17 Ratings,(3.083),https://untappd.com/brewery/330386,01/04/2020 10:22:02
+Volkshaus 1914,Switzerland,Bar / Restaurant / Store,1 Beer,17 Ratings,(3.485),https://untappd.com/brewery/310756,01/04/2020 10:22:02
+Bro's Bräu,Switzerland,Nano Brewery,8 Beers,17 Ratings,(0),https://untappd.com/brewery/302677,01/04/2020 10:22:03
+Hamlet,Switzerland,Nano Brewery,7 Beers,17 Ratings,(0),https://untappd.com/brewery/293898,01/04/2020 10:22:03
+Mosterei Vetsch,Switzerland,Cidery,2 Beers,17 Ratings,(0),https://untappd.com/brewery/279266,01/04/2020 10:22:03
+Bauschänzli,Switzerland,Bar / Restaurant / Store,1 Beer,16 Ratings,(3),https://untappd.com/brewery/87717,01/04/2020 10:22:04
+Craftakt,Switzerland,Nano Brewery,5 Beers,16 Ratings,(0),https://untappd.com/brewery/453516,01/04/2020 10:22:04
+Hügu Brauerei,Switzerland,Nano Brewery,8 Beers,17 Ratings,(0),https://untappd.com/brewery/451666,01/04/2020 10:22:05
+Mundart Scuol,Switzerland,Regional Brewery,2 Beers,16 Ratings,(3.432),https://untappd.com/brewery/446933,01/04/2020 10:22:05
+MashBrothers,Switzerland,Nano Brewery,2 Beers,16 Ratings,(0),https://untappd.com/brewery/383628,01/04/2020 10:22:05
+Schlossbrauerei Nürensdorf,Switzerland,Nano Brewery,1 Beer,16 Ratings,(3.109),https://untappd.com/brewery/360601,01/04/2020 10:22:06
+Brasserie du Tilleul,Switzerland,Nano Brewery,3 Beers,16 Ratings,(3.792),https://untappd.com/brewery/349965,01/04/2020 10:22:06
+Thurtalbräu,Switzerland,Nano Brewery,5 Beers,16 Ratings,(0),https://untappd.com/brewery/338045,01/04/2020 10:22:07
+Brauerei Riethof,Switzerland,Nano Brewery,3 Beers,16 Ratings,(0),https://untappd.com/brewery/205414,01/04/2020 10:22:07
+Mise En Biere,Switzerland,Micro Brewery,3 Beers,15 Ratings,(0),https://untappd.com/brewery/455494,01/04/2020 10:22:07
+Der Eigenbräudler,Switzerland,Nano Brewery,6 Beers,15 Ratings,(0),https://untappd.com/brewery/448137,01/04/2020 10:22:08
+Sirius Beer,Switzerland,Nano Brewery,6 Beers,15 Ratings,(0),https://untappd.com/brewery/444948,01/04/2020 10:22:08
+Hofbrauerei Springer,Switzerland,Nano Brewery,4 Beers,15 Ratings,(0),https://untappd.com/brewery/442973,01/04/2020 10:22:08
+Rubolino Brauerei Hopfenfisch,Switzerland,Nano Brewery,1 Beer,15 Ratings,(3.267),https://untappd.com/brewery/437066,01/04/2020 10:22:09
+Brauage du Garage à la Plage,Switzerland,Nano Brewery,6 Beers,15 Ratings,(0),https://untappd.com/brewery/416383,01/04/2020 10:22:09
+La Ferme D'Ostende,Switzerland,Nano Brewery,5 Beers,15 Ratings,(0),https://untappd.com/brewery/380149,01/04/2020 10:22:10
+Brasserie du Bois Rouge,Switzerland,Nano Brewery,2 Beers,15 Ratings,(3.462),https://untappd.com/brewery/363887,01/04/2020 10:22:10
+HÄRTIBRÄU,Switzerland,Nano Brewery,8 Beers,15 Ratings,(0),https://untappd.com/brewery/325053,01/04/2020 10:22:10
+Stirne Bräu,Switzerland,Nano Brewery,3 Beers,15 Ratings,(0),https://untappd.com/brewery/321086,01/04/2020 10:22:11
+San Salvatore,Switzerland,Nano Brewery,9 Beers,15 Ratings,(0),https://untappd.com/brewery/311262,01/04/2020 10:22:11
+Brädele Bräu,Switzerland,Nano Brewery,5 Beers,15 Ratings,(0),https://untappd.com/brewery/237513,01/04/2020 10:22:11
+Brauverein Pfäffikon,Switzerland,Nano Brewery,2 Beers,14 Ratings,(0),https://untappd.com/brewery/71135,01/04/2020 10:22:12
+Brasserie de la Grue,Switzerland,Nano Brewery,2 Beers,14 Ratings,(3.346),https://untappd.com/brewery/440438,01/04/2020 10:22:12
+bantigerbier,Switzerland,Nano Brewery,7 Beers,14 Ratings,(0),https://untappd.com/brewery/430321,01/04/2020 10:22:13
+Sauhofbräu,Switzerland,Nano Brewery,3 Beers,14 Ratings,(0),https://untappd.com/brewery/412736,01/04/2020 10:22:13
+Galio,Switzerland,Nano Brewery,7 Beers,14 Ratings,(0),https://untappd.com/brewery/361214,01/04/2020 10:22:13
+Gletscher Bräu,Switzerland,Nano Brewery,1 Beer,13 Ratings,(2.781),https://untappd.com/brewery/436558,01/04/2020 10:22:14
+Braufux,Switzerland,Nano Brewery,3 Beers,13 Ratings,(0),https://untappd.com/brewery/434450,01/04/2020 10:22:14
+Druid Brewing,Switzerland,Nano Brewery,5 Beers,13 Ratings,(0),https://untappd.com/brewery/431896,01/04/2020 10:22:14
+Maihof,Switzerland,Nano Brewery,2 Beers,13 Ratings,(0),https://untappd.com/brewery/430707,01/04/2020 10:22:15
+Meyer Family Bierfreunde,Switzerland,Nano Brewery,6 Beers,13 Ratings,(0),https://untappd.com/brewery/394713,01/04/2020 10:22:15
+Amstutz,Switzerland,Cidery,1 Beer,13 Ratings,(3.223),https://untappd.com/brewery/387674,01/04/2020 10:22:16
+Kleinbrauerei 9030,Switzerland,Nano Brewery,5 Beers,13 Ratings,(0),https://untappd.com/brewery/292401,01/04/2020 10:22:16
+Kocher Bräu,Switzerland,Micro Brewery,4 Beers,13 Ratings,(0),https://untappd.com/brewery/174891,01/04/2020 10:22:16
+Wale Bier,Switzerland,Nano Brewery,4 Beers,12 Ratings,(0),https://untappd.com/brewery/460136,01/04/2020 10:22:17
+Wild Goats Brewery,Switzerland,Nano Brewery,1 Beer,12 Ratings,(3.583),https://untappd.com/brewery/447205,01/04/2020 10:22:17
+Hard Labor Brew,Switzerland,Nano Brewery,4 Beers,12 Ratings,(0),https://untappd.com/brewery/444027,01/04/2020 10:22:17
+Frice & Taylor,Switzerland,Bar / Restaurant / Store,1 Beer,12 Ratings,(2.188),https://untappd.com/brewery/438245,01/04/2020 10:22:18
+Bierliebe & Friends,Switzerland,Bar / Restaurant / Store,3 Beers,12 Ratings,(0),https://untappd.com/brewery/436471,01/04/2020 10:22:18
+Gotan,Switzerland,Nano Brewery,3 Beers,12 Ratings,(0),https://untappd.com/brewery/434448,01/04/2020 10:22:19
+Safienbrauerei Rössli,Switzerland,Brew Pub,2 Beers,12 Ratings,(3.614),https://untappd.com/brewery/433807,01/04/2020 10:22:19
+Burggütli-Bräu,Switzerland,Nano Brewery,5 Beers,12 Ratings,(0),https://untappd.com/brewery/433517,01/04/2020 10:22:20
+Waldschlössli,Switzerland,Nano Brewery,2 Beers,12 Ratings,(0),https://untappd.com/brewery/411184,01/04/2020 10:22:20
+SurbBach,Switzerland,Nano Brewery,7 Beers,12 Ratings,(0),https://untappd.com/brewery/386569,01/04/2020 10:22:20
+Pro Beer,Switzerland,Nano Brewery,5 Beers,12 Ratings,(0),https://untappd.com/brewery/378156,01/04/2020 10:22:21
+Chraft Biär,Switzerland,Nano Brewery,1 Beer,12 Ratings,(2.833),https://untappd.com/brewery/314971,01/04/2020 10:22:21
+Les Bières Com,Switzerland,Nano Brewery,3 Beers,12 Ratings,(3.525),https://untappd.com/brewery/280074,01/04/2020 10:22:22
+Bachtelbier,Switzerland,Nano Brewery,2 Beers,12 Ratings,(3.25),https://untappd.com/brewery/215695,01/04/2020 10:22:22
+Les Divins Brasseurs,Switzerland,Brew Pub,3 Beers,12 Ratings,(0),https://untappd.com/brewery/185403,01/04/2020 10:22:23
+Cormano Vini,Switzerland,Contract Brewery,1 Beer,12 Ratings,(2.958),https://untappd.com/brewery/148668,01/04/2020 10:22:23
+Brasserie Tzaly,Switzerland,Nano Brewery,3 Beers,11 Ratings,(0),https://untappd.com/brewery/456620,01/04/2020 10:22:23
+Kohler Bier,Switzerland,Regional Brewery,1 Beer,11 Ratings,(3.659),https://untappd.com/brewery/455202,01/04/2020 10:22:24
+Lagerbier Vom Fass,Switzerland,Bar / Restaurant / Store,1 Beer,11 Ratings,(3.227),https://untappd.com/brewery/435827,01/04/2020 10:22:24
+Magic Hop,Switzerland,Nano Brewery,4 Beers,11 Ratings,(0),https://untappd.com/brewery/430435,01/04/2020 10:22:25
+Ämtler Brau,Switzerland,Nano Brewery,3 Beers,11 Ratings,(0),https://untappd.com/brewery/423230,01/04/2020 10:22:25
+Höngger Sunne,Switzerland,Nano Brewery,3 Beers,11 Ratings,(0),https://untappd.com/brewery/417644,01/04/2020 10:22:26
+Gasthofbrauerei Zum Löwen,Switzerland,Brew Pub,3 Beers,11 Ratings,(0),https://untappd.com/brewery/407024,01/04/2020 10:22:26
+Stierbräu,Switzerland,Contract Brewery,2 Beers,11 Ratings,(0),https://untappd.com/brewery/395978,01/04/2020 10:22:27
+Blüemlis Garagen Bräu,Switzerland,Nano Brewery,2 Beers,11 Ratings,(3.375),https://untappd.com/brewery/388893,01/04/2020 10:22:27
+Flösserbräu,Switzerland,Nano Brewery,1 Beer,11 Ratings,(3.636),https://untappd.com/brewery/328471,01/04/2020 10:22:28
+Heavenbrew,Switzerland,Nano Brewery,2 Beers,11 Ratings,(0),https://untappd.com/brewery/320244,01/04/2020 10:22:28
+Ilanzer Bier,Switzerland,Nano Brewery,8 Beers,11 Ratings,(0),https://untappd.com/brewery/307941,01/04/2020 10:22:29
+Brasserie du Gibloux,Switzerland,Nano Brewery,0 Beer,11 Ratings,(0),https://untappd.com/brewery/291046,01/04/2020 10:22:29
+Herzog,Switzerland,Cidery,2 Beers,11 Ratings,(3.6),https://untappd.com/brewery/265324,01/04/2020 10:22:30
+Fläsche,Switzerland,Nano Brewery,1 Beer,11 Ratings,(3.136),https://untappd.com/brewery/239436,01/04/2020 10:22:30
+Illauer Brauer,Switzerland,Contract Brewery,2 Beers,11 Ratings,(0),https://untappd.com/brewery/134956,01/04/2020 10:22:31
+Pfauenbier,Switzerland,Contract Brewery,0 Beer,11 Ratings,(0),https://untappd.com/brewery/10387,01/04/2020 10:22:31
+Striker Beer,Switzerland,Contract Brewery,0 Beer,10 Ratings,(0),https://untappd.com/brewery/7974,01/04/2020 10:22:32
+Foxys,Switzerland,Nano Brewery,1 Beer,10 Ratings,(3.72),https://untappd.com/brewery/449219,01/04/2020 10:22:32
+Perle Bräu,Switzerland,Nano Brewery,3 Beers,10 Ratings,(0),https://untappd.com/brewery/439651,01/04/2020 10:22:32
+Braugarten,Switzerland,Nano Brewery,2 Beers,10 Ratings,(0),https://untappd.com/brewery/428716,01/04/2020 10:22:33
+"Diocèse De Lausanne, Genève Et Fribourg",Switzerland,Contract Brewery,2 Beers,10 Ratings,(0),https://untappd.com/brewery/411958,01/04/2020 10:22:33
+Nicolas & Vincent Beltrami,Switzerland,Nano Brewery,3 Beers,10 Ratings,(0),https://untappd.com/brewery/405423,01/04/2020 10:22:34
+Brasserie des Cailloux,Switzerland,Nano Brewery,4 Beers,10 Ratings,(0),https://untappd.com/brewery/308627,01/04/2020 10:22:34
+Tüüfelsbräu,Switzerland,Nano Brewery,1 Beer,10 Ratings,(3.35),https://untappd.com/brewery/244706,01/04/2020 10:22:34
+InfernoBräu,Switzerland,Nano Brewery,6 Beers,10 Ratings,(0),https://untappd.com/brewery/200620,01/04/2020 10:22:35
+Brasserie De L’avenir,Switzerland,Micro Brewery,2 Beers,9 Ratings,(0),https://untappd.com/brewery/454329,01/04/2020 10:22:35
+ÄUÄ Braumanufaktur,Switzerland,Nano Brewery,8 Beers,9 Ratings,(0),https://untappd.com/brewery/450400,01/04/2020 10:22:36
+M14 Bräu,Switzerland,Nano Brewery,4 Beers,9 Ratings,(0),https://untappd.com/brewery/448647,01/04/2020 10:22:36
+Brasserie des Vagabonds,Switzerland,Nano Brewery,1 Beer,9 Ratings,(0),https://untappd.com/brewery/446123,01/04/2020 10:22:37
+R29,Switzerland,Nano Brewery,1 Beer,9 Ratings,(0),https://untappd.com/brewery/444222,01/04/2020 10:22:37
+Malambo,Switzerland,Nano Brewery,3 Beers,9 Ratings,(0),https://untappd.com/brewery/442987,01/04/2020 10:22:37
+Braustetter Craft,Switzerland,Nano Brewery,2 Beers,9 Ratings,(0),https://untappd.com/brewery/440648,01/04/2020 10:22:38
+GetränkX KLG,Switzerland,Nano Brewery,1 Beer,9 Ratings,(0),https://untappd.com/brewery/437624,01/04/2020 10:22:38
+SchmierBier,Switzerland,Nano Brewery,3 Beers,9 Ratings,(0),https://untappd.com/brewery/435230,01/04/2020 10:22:39
+Dolphin Dentist,Switzerland,Nano Brewery,4 Beers,9 Ratings,(0),https://untappd.com/brewery/433378,01/04/2020 10:22:39
+Falling Pine,Switzerland,Nano Brewery,3 Beers,9 Ratings,(0),https://untappd.com/brewery/433028,01/04/2020 10:22:40
+Brauerei 5 vor 12i,Switzerland,Nano Brewery,5 Beers,9 Ratings,(0),https://untappd.com/brewery/428562,01/04/2020 10:22:40
+Hof Allenwinden,Switzerland,Cidery,3 Beers,9 Ratings,(0),https://untappd.com/brewery/415901,01/04/2020 10:22:40
+Durhône,Switzerland,Nano Brewery,1 Beer,9 Ratings,(0),https://untappd.com/brewery/411148,01/04/2020 10:22:41
+Pioneer Beer,Switzerland,Nano Brewery,4 Beers,9 Ratings,(0),https://untappd.com/brewery/411120,01/04/2020 10:22:41
+Verein Interessierter Bierbrauer (ViB),Switzerland,Nano Brewery,8 Beers,9 Ratings,(0),https://untappd.com/brewery/364003,01/04/2020 10:22:42
+Casino Barriere,Switzerland,Bar / Restaurant / Store,1 Beer,9 Ratings,(0),https://untappd.com/brewery/362384,01/04/2020 10:22:42
+Torkelbräu,Switzerland,Nano Brewery,6 Beers,9 Ratings,(0),https://untappd.com/brewery/357476,01/04/2020 10:22:43
+Brasserie Moustache,Switzerland,Nano Brewery,12 Beers,9 Ratings,(0),https://untappd.com/brewery/348889,01/04/2020 10:22:43
+Malzheimer,Switzerland,Nano Brewery,4 Beers,9 Ratings,(0),https://untappd.com/brewery/341191,01/04/2020 10:22:44
+WBW (Widmer Bierspezialitäten Will),Switzerland,Nano Brewery,5 Beers,9 Ratings,(0),https://untappd.com/brewery/338428,01/04/2020 10:22:44
+Sherlock Lounge,Switzerland,Bar / Restaurant / Store,1 Beer,9 Ratings,(0),https://untappd.com/brewery/335856,01/04/2020 10:22:45
+Brauerei Unterkuonimatt,Switzerland,Nano Brewery,5 Beers,9 Ratings,(0),https://untappd.com/brewery/311793,01/04/2020 10:22:45
+Ceres Bräu,Switzerland,Nano Brewery,8 Beers,9 Ratings,(0),https://untappd.com/brewery/286553,01/04/2020 10:22:45
+Trinkbar,Switzerland,Nano Brewery,4 Beers,9 Ratings,(0),https://untappd.com/brewery/252641,01/04/2020 10:22:46
+Stufenbau Brauerei,Switzerland,Nano Brewery,0 Beer,9 Ratings,(0),https://untappd.com/brewery/225323,01/04/2020 10:22:46
+Terrasse Heinrüti Rank,Switzerland,Brew Pub,2 Beers,9 Ratings,(0),https://untappd.com/brewery/158507,01/04/2020 10:22:46
+Rheinfall-Bräu,Switzerland,Nano Brewery,2 Beers,9 Ratings,(0),https://untappd.com/brewery/142790,01/04/2020 10:22:47
+Brasserie La Lionne,Switzerland,Nano Brewery,3 Beers,8 Ratings,(0),https://untappd.com/brewery/450512,01/04/2020 10:22:47
+Olgiati,Switzerland,Nano Brewery,2 Beers,8 Ratings,(0),https://untappd.com/brewery/443314,01/04/2020 10:22:48
+Hektor Bier,Switzerland,Nano Brewery,1 Beer,8 Ratings,(0),https://untappd.com/brewery/433099,01/04/2020 10:22:48
+Horseshoe Braui,Switzerland,Brew Pub,1 Beer,8 Ratings,(0),https://untappd.com/brewery/432282,01/04/2020 10:22:48
+Obernauer Bier,Switzerland,Nano Brewery,5 Beers,8 Ratings,(0),https://untappd.com/brewery/431192,01/04/2020 10:22:49
+Sunneblick,Switzerland,Nano Brewery,2 Beers,8 Ratings,(0),https://untappd.com/brewery/427613,01/04/2020 10:22:49
+Zhaw,Switzerland,Nano Brewery,2 Beers,8 Ratings,(0),https://untappd.com/brewery/415289,01/04/2020 10:22:50
+Sonnenberge,Switzerland,Nano Brewery,2 Beers,8 Ratings,(0),https://untappd.com/brewery/410218,01/04/2020 10:22:50
+Rigiblick,Switzerland,Nano Brewery,2 Beers,8 Ratings,(0),https://untappd.com/brewery/407057,01/04/2020 10:22:51
+Brasserie des Pèdzes,Switzerland,Nano Brewery,2 Beers,8 Ratings,(0),https://untappd.com/brewery/406944,01/04/2020 10:22:51
+Meibär,Switzerland,Nano Brewery,4 Beers,8 Ratings,(0),https://untappd.com/brewery/400652,01/04/2020 10:22:52
+Sarganserbräu,Switzerland,Nano Brewery,8 Beers,8 Ratings,(0),https://untappd.com/brewery/399669,01/04/2020 10:22:52
+Eichi-bier,Switzerland,Nano Brewery,3 Beers,8 Ratings,(0),https://untappd.com/brewery/399420,01/04/2020 10:22:53
+Chlaeggi Brauerei,Switzerland,Nano Brewery,6 Beers,8 Ratings,(0),https://untappd.com/brewery/391576,01/04/2020 10:22:53
+Schüür,Switzerland,Bar / Restaurant / Store,3 Beers,8 Ratings,(0),https://untappd.com/brewery/389958,01/04/2020 10:22:54
+D69 EXBeeriments,Switzerland,Nano Brewery,5 Beers,8 Ratings,(0),https://untappd.com/brewery/375014,01/04/2020 10:22:54
+Kracher,Switzerland,Bar / Restaurant / Store,1 Beer,8 Ratings,(0),https://untappd.com/brewery/371725,01/04/2020 10:22:55
+Livehard,Switzerland,Nano Brewery,3 Beers,8 Ratings,(0),https://untappd.com/brewery/363542,01/04/2020 10:22:55
+Nordah,Switzerland,Nano Brewery,3 Beers,8 Ratings,(0),https://untappd.com/brewery/336014,01/04/2020 10:22:56
+Soho Basel,Switzerland,Bar / Restaurant / Store,1 Beer,8 Ratings,(0),https://untappd.com/brewery/319089,01/04/2020 10:22:56
+Red Deer,Switzerland,Nano Brewery,4 Beers,8 Ratings,(0),https://untappd.com/brewery/300430,01/04/2020 10:22:56
+Lanzbier,Switzerland,Contract Brewery,1 Beer,8 Ratings,(0),https://untappd.com/brewery/295035,01/04/2020 10:22:57
+Brasserie les Coudres,Switzerland,Nano Brewery,2 Beers,8 Ratings,(0),https://untappd.com/brewery/238518,01/04/2020 10:22:57
+Drink-Energy GmbH,Switzerland,Bar / Restaurant / Store,2 Beers,8 Ratings,(0),https://untappd.com/brewery/204927,01/04/2020 10:22:58
+Brauerei Schoggi,Switzerland,Macro Brewery,2 Beers,7 Ratings,(0),https://untappd.com/brewery/453284,01/04/2020 10:22:58
+Stirnebräu,Switzerland,Regional Brewery,1 Beer,7 Ratings,(0),https://untappd.com/brewery/448148,01/04/2020 10:22:58
+La Music'ale,Switzerland,Nano Brewery,4 Beers,7 Ratings,(0),https://untappd.com/brewery/442718,01/04/2020 10:22:59
+Schloss Laufen,Switzerland,Nano Brewery,1 Beer,7 Ratings,(0),https://untappd.com/brewery/438156,01/04/2020 10:22:59
+Baubulour,Switzerland,Nano Brewery,2 Beers,7 Ratings,(0),https://untappd.com/brewery/421442,01/04/2020 10:23:00
+Beny Bier,Switzerland,Nano Brewery,1 Beer,7 Ratings,(0),https://untappd.com/brewery/417040,01/04/2020 10:23:00
+L'Enclave,Switzerland,Nano Brewery,0 Beer,7 Ratings,(0),https://untappd.com/brewery/39439,01/04/2020 10:23:00
+Herrlibräu,Switzerland,Nano Brewery,6 Beers,7 Ratings,(0),https://untappd.com/brewery/38754,01/04/2020 10:23:01
+Chlapf,Switzerland,Nano Brewery,6 Beers,7 Ratings,(0),https://untappd.com/brewery/364801,01/04/2020 10:23:01
+Elgger Nachbar Bräu,Switzerland,Nano Brewery,3 Beers,7 Ratings,(0),https://untappd.com/brewery/361485,01/04/2020 10:23:02
+Eschi Bräu,Switzerland,Nano Brewery,1 Beer,7 Ratings,(0),https://untappd.com/brewery/359664,01/04/2020 10:23:02
+Winzerhaus,Switzerland,Bar / Restaurant / Store,1 Beer,7 Ratings,(0),https://untappd.com/brewery/354972,01/04/2020 10:23:02
+Marco's Garage Brewery,Switzerland,Nano Brewery,4 Beers,7 Ratings,(0),https://untappd.com/brewery/346136,01/04/2020 10:23:03
+Beni's Bäre Bräu,Switzerland,Nano Brewery,5 Beers,7 Ratings,(0),https://untappd.com/brewery/343985,01/04/2020 10:23:03
+Verein Zuger Braufreunde,Switzerland,Nano Brewery,2 Beers,7 Ratings,(0),https://untappd.com/brewery/340645,01/04/2020 10:23:04
+La Brasserie Des 5 Communes,Switzerland,Nano Brewery,2 Beers,7 Ratings,(0),https://untappd.com/brewery/329738,01/04/2020 10:23:04
+Aubrigbier (Brauerei Innerthal),Switzerland,Nano Brewery,2 Beers,7 Ratings,(0),https://untappd.com/brewery/280311,01/04/2020 10:23:04
+Hahnenbräu,Switzerland,Nano Brewery,7 Beers,7 Ratings,(0),https://untappd.com/brewery/279167,01/04/2020 10:23:05
+Weiss zum Erlenbach,Switzerland,Cidery,3 Beers,7 Ratings,(0),https://untappd.com/brewery/233285,01/04/2020 10:23:05
+La Brasserie Du Trio,Switzerland,Nano Brewery,0 Beer,7 Ratings,(0),https://untappd.com/brewery/148073,01/04/2020 10:23:06
+Brasserie Du Vieux Chemin,Switzerland,Nano Brewery,3 Beers,6 Ratings,(0),https://untappd.com/brewery/454730,01/04/2020 10:23:06
+SöiliBröi,Switzerland,Nano Brewery,1 Beer,6 Ratings,(0),https://untappd.com/brewery/451662,01/04/2020 10:23:06
+BCB,Switzerland,Micro Brewery,1 Beer,6 Ratings,(0),https://untappd.com/brewery/450390,01/04/2020 10:23:07
+BlauBrau,Switzerland,Nano Brewery,2 Beers,6 Ratings,(0),https://untappd.com/brewery/449394,01/04/2020 10:23:07
+Bräuper,Switzerland,Nano Brewery,1 Beer,6 Ratings,(0),https://untappd.com/brewery/445554,01/04/2020 10:23:08
+Aeni,Switzerland,Nano Brewery,1 Beer,6 Ratings,(0),https://untappd.com/brewery/443635,01/04/2020 10:23:08
+Della's Beer Di Dellavia Alan,Switzerland,Nano Brewery,2 Beers,6 Ratings,(0),https://untappd.com/brewery/443313,01/04/2020 10:23:08
+Bierbraufreunde,Switzerland,Nano Brewery,3 Beers,6 Ratings,(0),https://untappd.com/brewery/427158,01/04/2020 10:23:09
+Tia,Switzerland,Nano Brewery,6 Beers,6 Ratings,(0),https://untappd.com/brewery/425994,01/04/2020 10:23:09
+Bisbino,Switzerland,Contract Brewery,1 Beer,6 Ratings,(0),https://untappd.com/brewery/420867,01/04/2020 10:23:10
+Le Chêne,Switzerland,Nano Brewery,3 Beers,6 Ratings,(0),https://untappd.com/brewery/410065,01/04/2020 10:23:10
+Rachel Skull,Switzerland,Nano Brewery,1 Beer,6 Ratings,(0),https://untappd.com/brewery/404581,01/04/2020 10:23:11
+Volottaz,Switzerland,Nano Brewery,4 Beers,6 Ratings,(0),https://untappd.com/brewery/397861,01/04/2020 10:23:11
+St. Wendelin,Switzerland,Nano Brewery,5 Beers,6 Ratings,(0),https://untappd.com/brewery/388911,01/04/2020 10:23:11
+Augarten,Switzerland,Brew Pub,2 Beers,6 Ratings,(0),https://untappd.com/brewery/371372,01/04/2020 10:23:12
+Skipper Bier,Switzerland,Nano Brewery,3 Beers,6 Ratings,(0),https://untappd.com/brewery/346498,01/04/2020 10:23:12
+Valeis Bräu,Switzerland,Nano Brewery,4 Beers,6 Ratings,(0),https://untappd.com/brewery/346287,01/04/2020 10:23:13
+Bierwerkstatt Turtmann,Switzerland,Nano Brewery,6 Beers,6 Ratings,(0),https://untappd.com/brewery/332176,01/04/2020 10:23:13
+Luusbueb,Switzerland,Nano Brewery,2 Beers,6 Ratings,(0),https://untappd.com/brewery/293034,01/04/2020 10:23:13
+Brauerei Mosimann Und Affolter,Switzerland,Nano Brewery,3 Beers,6 Ratings,(0),https://untappd.com/brewery/254903,01/04/2020 10:23:14
+Robenhausen,Switzerland,Nano Brewery,1 Beer,6 Ratings,(0),https://untappd.com/brewery/172807,01/04/2020 10:23:14
+Birrabroggini,Switzerland,Nano Brewery,0 Beer,6 Ratings,(0),https://untappd.com/brewery/171365,01/04/2020 10:23:15
+Sankt Maria,Switzerland,Nano Brewery,3 Beers,6 Ratings,(0),https://untappd.com/brewery/169864,01/04/2020 10:23:15
+Seebraui,Switzerland,Nano Brewery,5 Beers,5 Ratings,(0),https://untappd.com/brewery/459603,01/04/2020 10:23:15
+Indianer Craft Beer Brauerei,Switzerland,Nano Brewery,4 Beers,5 Ratings,(0),https://untappd.com/brewery/459303,01/04/2020 10:23:16
+Braukellerei Hug,Switzerland,Nano Brewery,7 Beers,5 Ratings,(0),https://untappd.com/brewery/455458,01/04/2020 10:23:16
+Braukollektiv Züriberg,Switzerland,Nano Brewery,1 Beer,5 Ratings,(0),https://untappd.com/brewery/452623,01/04/2020 10:23:17
+Bierhalle Spezialitätenbrauerei,Switzerland,Nano Brewery,1 Beer,5 Ratings,(0),https://untappd.com/brewery/449188,01/04/2020 10:23:17
+Brassin Lemanique,Switzerland,Micro Brewery,1 Beer,5 Ratings,(0),https://untappd.com/brewery/449106,01/04/2020 10:23:18
+BB Brewers,Switzerland,Nano Brewery,3 Beers,5 Ratings,(0),https://untappd.com/brewery/448824,01/04/2020 10:23:18
+Freybier,Switzerland,Nano Brewery,3 Beers,5 Ratings,(0),https://untappd.com/brewery/442045,01/04/2020 10:23:19
+Bühler AG,Switzerland,Nano Brewery,1 Beer,5 Ratings,(0),https://untappd.com/brewery/441943,01/04/2020 10:23:19
+Greenhouse Brewery,Switzerland,Nano Brewery,5 Beers,5 Ratings,(0),https://untappd.com/brewery/436596,01/04/2020 10:23:19
+Hübelibier Schnottwil,Switzerland,Nano Brewery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/435386,01/04/2020 10:23:20
+Haldenbräu,Switzerland,Nano Brewery,1 Beer,5 Ratings,(0),https://untappd.com/brewery/433780,01/04/2020 10:23:20
+GenevaCraftBrewery,Switzerland,Nano Brewery,3 Beers,5 Ratings,(0),https://untappd.com/brewery/432095,01/04/2020 10:23:21
+Ufmüpfig Brauerei,Switzerland,Nano Brewery,4 Beers,5 Ratings,(0),https://untappd.com/brewery/428158,01/04/2020 10:23:21
+Augass-Bräu,Switzerland,Nano Brewery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/417845,01/04/2020 10:23:21
+Cave De L'Auline,Switzerland,Nano Brewery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/416561,01/04/2020 10:23:22
+Brasserie des 4 Vents,Switzerland,Nano Brewery,3 Beers,5 Ratings,(0),https://untappd.com/brewery/416520,01/04/2020 10:23:22
+Tom&Cello,Switzerland,Nano Brewery,3 Beers,5 Ratings,(0),https://untappd.com/brewery/415501,01/04/2020 10:23:23
+Sixtytwo.ch,Switzerland,Nano Brewery,9 Beers,5 Ratings,(0),https://untappd.com/brewery/408677,01/04/2020 10:23:23
+DRAG ON,Switzerland,Nano Brewery,4 Beers,5 Ratings,(0),https://untappd.com/brewery/398371,01/04/2020 10:23:23
+Brunos Brauerei,Switzerland,Nano Brewery,4 Beers,5 Ratings,(0),https://untappd.com/brewery/395890,01/04/2020 10:23:24
+Brasserie SG/L'Arret De Bus,Switzerland,Nano Brewery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/392538,01/04/2020 10:23:24
+Ingolds Braukeller,Switzerland,Nano Brewery,1 Beer,5 Ratings,(0),https://untappd.com/brewery/363141,01/04/2020 10:23:25
+Bier von Vier,Switzerland,Nano Brewery,3 Beers,5 Ratings,(0),https://untappd.com/brewery/337595,01/04/2020 10:23:25
+Hopfehüsli-Bräu,Switzerland,Nano Brewery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/327604,01/04/2020 10:23:25
+Met-Hammer,Switzerland,Meadery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/322083,01/04/2020 10:23:26
+Loiwibräu,Switzerland,Nano Brewery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/302678,01/04/2020 10:23:26
+Kleinbrauerei Bellach,Switzerland,Nano Brewery,3 Beers,5 Ratings,(0),https://untappd.com/brewery/282382,01/04/2020 10:23:27
+Siechen Bräu,Switzerland,Nano Brewery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/230762,01/04/2020 10:23:27
+Suufludi,Switzerland,Nano Brewery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/218864,01/04/2020 10:23:28
+Krüsel Bier,Switzerland,Nano Brewery,2 Beers,5 Ratings,(0),https://untappd.com/brewery/185137,01/04/2020 10:23:28
+The Crafts,Switzerland,Bar / Restaurant / Store,3 Beers,5 Ratings,(0),https://untappd.com/brewery/174231,01/04/2020 10:23:28
+Künter Stallbräu,Switzerland,Nano Brewery,1 Beer,5 Ratings,(0),https://untappd.com/brewery/146801,01/04/2020 10:23:29
+Fat Badger Cider Company,Switzerland,Cidery,1 Beer,4 Ratings,(0),https://untappd.com/brewery/72555,01/04/2020 10:23:29
+Poke Lausanne,Switzerland,Nano Brewery,2 Beers,4 Ratings,(0),https://untappd.com/brewery/455859,01/04/2020 10:23:30
+Brasserie De Chiboz,Switzerland,Nano Brewery,1 Beer,4 Ratings,(0),https://untappd.com/brewery/452040,01/04/2020 10:23:30
+Buomberger,Switzerland,Regional Brewery,1 Beer,4 Ratings,(0),https://untappd.com/brewery/448896,01/04/2020 10:23:30
+Stafi Bräu,Switzerland,Nano Brewery,2 Beers,4 Ratings,(0),https://untappd.com/brewery/447693,01/04/2020 10:23:31
+Chlepfimoos,Switzerland,Nano Brewery,3 Beers,4 Ratings,(0),https://untappd.com/brewery/444390,01/04/2020 10:23:31
+Brauerzunft Region Basel,Switzerland,Contract Brewery,1 Beer,4 Ratings,(0),https://untappd.com/brewery/442893,01/04/2020 10:23:32
+Schlucki,Switzerland,Nano Brewery,2 Beers,4 Ratings,(0),https://untappd.com/brewery/440291,01/04/2020 10:23:32
+Brasserie Du Pâquier,Switzerland,Nano Brewery,2 Beers,4 Ratings,(0),https://untappd.com/brewery/438914,01/04/2020 10:23:32
+Keller Biere,Switzerland,Nano Brewery,1 Beer,4 Ratings,(0),https://untappd.com/brewery/437542,01/04/2020 10:23:33
+Luzi Bier,Switzerland,Nano Brewery,2 Beers,4 Ratings,(0),https://untappd.com/brewery/436168,01/04/2020 10:23:33
+Kuppelwieser,Switzerland,Nano Brewery,2 Beers,4 Ratings,(0),https://untappd.com/brewery/428222,01/04/2020 10:23:34
+Brauzeugen,Switzerland,Nano Brewery,4 Beers,4 Ratings,(0),https://untappd.com/brewery/426524,01/04/2020 10:23:34
+Bier Zentrale,Switzerland,Nano Brewery,4 Beers,4 Ratings,(0),https://untappd.com/brewery/419617,01/04/2020 10:23:34
+Meiga-Bräu,Switzerland,Nano Brewery,0 Beer,4 Ratings,(0),https://untappd.com/brewery/405650,01/04/2020 10:23:35
+Em Basler sy Bier,Switzerland,Contract Brewery,1 Beer,4 Ratings,(0),https://untappd.com/brewery/404251,01/04/2020 10:23:35
+J.-P Berset,Switzerland,Cidery,1 Beer,4 Ratings,(0),https://untappd.com/brewery/400668,01/04/2020 10:23:36
+Brasserie des Alpes,Switzerland,Nano Brewery,3 Beers,4 Ratings,(0),https://untappd.com/brewery/387091,01/04/2020 10:23:36
+Brasserie Du Grenier,Switzerland,Nano Brewery,1 Beer,4 Ratings,(0),https://untappd.com/brewery/348385,01/04/2020 10:23:36
+Jack Beer (Brasserie Artisanale Le Fuet),Switzerland,Nano Brewery,2 Beers,4 Ratings,(0),https://untappd.com/brewery/330708,01/04/2020 10:23:37
+H27 Craft Beer Inc.,Switzerland,Contract Brewery,3 Beers,4 Ratings,(0),https://untappd.com/brewery/317495,01/04/2020 10:23:37
+H2orzo,Switzerland,Nano Brewery,3 Beers,4 Ratings,(0),https://untappd.com/brewery/313306,01/04/2020 10:23:38
+Ruchweld Gastro & Event GmbH,Switzerland,Bar / Restaurant / Store,1 Beer,4 Ratings,(0),https://untappd.com/brewery/297850,01/04/2020 10:23:38
+Chregu Bräu,Switzerland,Nano Brewery,3 Beers,4 Ratings,(0),https://untappd.com/brewery/292775,01/04/2020 10:23:38
+Hirschen Wildhaus,Switzerland,Brew Pub,1 Beer,4 Ratings,(0),https://untappd.com/brewery/290231,01/04/2020 10:23:39
+Davos Youthpalace,Switzerland,Bar / Restaurant / Store,1 Beer,4 Ratings,(0),https://untappd.com/brewery/275717,01/04/2020 10:23:39
+Vo Gränchä Bi Gott,Switzerland,Nano Brewery,3 Beers,4 Ratings,(0),https://untappd.com/brewery/256419,01/04/2020 10:23:40
+Ried Brauerei,Switzerland,Nano Brewery,2 Beers,4 Ratings,(0),https://untappd.com/brewery/251600,01/04/2020 10:23:40
+Madl-bräu,Switzerland,Bar / Restaurant / Store,2 Beers,4 Ratings,(0),https://untappd.com/brewery/235079,01/04/2020 10:23:41
+Kurvenbier Altreu,Switzerland,Nano Brewery,1 Beer,4 Ratings,(0),https://untappd.com/brewery/190019,01/04/2020 10:23:41
+Gibel Bräu,Switzerland,Micro Brewery,2 Beers,3 Ratings,(0),https://untappd.com/brewery/459863,01/04/2020 10:23:41
+Bergrestaurant Gadastatt,Switzerland,Bar / Restaurant / Store,1 Beer,3 Ratings,(0),https://untappd.com/brewery/457213,01/04/2020 10:23:42
+My Growing Company SA,Switzerland,Nano Brewery,1 Beer,3 Ratings,(0),https://untappd.com/brewery/457069,01/04/2020 10:23:42
+Marmot,Switzerland,Micro Brewery,1 Beer,3 Ratings,(0),https://untappd.com/brewery/455927,01/04/2020 10:23:43
+Einsiedler,Switzerland,Micro Brewery,1 Beer,3 Ratings,(0),https://untappd.com/brewery/454752,01/04/2020 10:23:43
+Fritschi,Switzerland,Nano Brewery,3 Beers,3 Ratings,(0),https://untappd.com/brewery/453679,01/04/2020 10:23:44
+WeRoDi,Switzerland,Nano Brewery,2 Beers,3 Ratings,(0),https://untappd.com/brewery/451579,01/04/2020 10:23:44
+Brasserie Des Abbesses,Switzerland,Micro Brewery,3 Beers,3 Ratings,(0),https://untappd.com/brewery/451509,01/04/2020 10:23:44
+Araris Brauerei,Switzerland,Nano Brewery,2 Beers,3 Ratings,(0),https://untappd.com/brewery/449623,01/04/2020 10:23:45
+The Hide Hotel,Switzerland,Bar / Restaurant / Store,1 Beer,3 Ratings,(0),https://untappd.com/brewery/449133,01/04/2020 10:23:45
+Stadtbrauerei Diesenhofen,Switzerland,Nano Brewery,1 Beer,3 Ratings,(0),https://untappd.com/brewery/447856,01/04/2020 10:23:46
+Blackwood Brewery,Switzerland,Nano Brewery,4 Beers,3 Ratings,(0),https://untappd.com/brewery/447830,01/04/2020 10:23:46
+Bottega Dei Ghi,Switzerland,Nano Brewery,3 Beers,3 Ratings,(0),https://untappd.com/brewery/446897,01/04/2020 10:23:46
+Obermatt,Switzerland,Nano Brewery,2 Beers,3 Ratings,(0),https://untappd.com/brewery/427914,01/04/2020 10:23:47
+La Versée,Switzerland,Nano Brewery,2 Beers,3 Ratings,(0),https://untappd.com/brewery/423256,01/04/2020 10:23:47
+Schlossbier Brauerei,Switzerland,Nano Brewery,2 Beers,3 Ratings,(0),https://untappd.com/brewery/417736,01/04/2020 10:23:48
+No Eis,Switzerland,Nano Brewery,1 Beer,3 Ratings,(0),https://untappd.com/brewery/413876,01/04/2020 10:23:48
+Thaler Bier,Switzerland,Nano Brewery,5 Beers,3 Ratings,(0),https://untappd.com/brewery/411988,01/04/2020 10:23:48
+Quartiertreff Zehntenhaus,Switzerland,Bar / Restaurant / Store,1 Beer,3 Ratings,(0),https://untappd.com/brewery/405758,01/04/2020 10:23:49
+PloppUp,Switzerland,Nano Brewery,2 Beers,3 Ratings,(0),https://untappd.com/brewery/399499,01/04/2020 10:23:49
+Iris,Switzerland,Cidery,1 Beer,3 Ratings,(0),https://untappd.com/brewery/396053,01/04/2020 10:23:50
+GitsAis,Switzerland,Nano Brewery,1 Beer,3 Ratings,(0),https://untappd.com/brewery/390460,01/04/2020 10:23:50
+Brunner Weinmanufaktur,Switzerland,Cidery,2 Beers,3 Ratings,(0),https://untappd.com/brewery/387561,01/04/2020 10:23:51
+Bieres Artisanales du Batteur,Switzerland,Nano Brewery,1 Beer,3 Ratings,(0),https://untappd.com/brewery/382296,01/04/2020 10:23:51
+Lion Couchant,Switzerland,Nano Brewery,3 Beers,3 Ratings,(0),https://untappd.com/brewery/370364,01/04/2020 10:23:52
+Trafo Bier,Switzerland,Nano Brewery,3 Beers,3 Ratings,(0),https://untappd.com/brewery/347064,01/04/2020 10:23:52
+Gland,Switzerland,Nano Brewery,1 Beer,3 Ratings,(0),https://untappd.com/brewery/338090,01/04/2020 10:23:52
+Brauerei Tobias Schneider,Switzerland,Nano Brewery,2 Beers,3 Ratings,(0),https://untappd.com/brewery/331758,01/04/2020 10:23:53
